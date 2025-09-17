@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>讀語句上簡單</title>
+    <style>
+      audio {
+        width: 400px;
+        vertical-align: middle;
+        margin-left: 10px;
+      }
+      strong {
+        font-weight: 800;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>讀語句上簡單</h1>
+    <ol>
+      {% for item in data %}
+      <li>
+        <p>{{ item.text }}</p>
+        <p>{{ item.pronunciation | bold_bracketed | safe }}</p>
+        <audio controls>
+          <source src="audio/{{ item.audio }}" type="audio/mpeg" />
+          Your browser does not support the audio element.
+        </audio>
+      </li>
+      {% endfor %}
+    </ol>
+  </body>
+</html>

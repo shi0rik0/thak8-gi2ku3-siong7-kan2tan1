@@ -1,0 +1,35 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main # Trigger on push to main branch
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest # Run on Ubuntu runner
+
+    steps:
+      - name: Checkout repository # Step 1: Clone repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python # Set up Python environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x" # Specify Python version
+
+      - name: Install dependencies # Install Python dependencies (if needed)
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Python script to generate index.html # Step 2: Execute python generate.py
+        run: python generate.py
+
+      - name: Deploy to GitHub Pages # Step 3: Push generated index.html to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }} # Use GitHub's built-in token
+          publish_dir: ./ # Directory to publish (e.g., './' for root, './dist' for a 'dist' folder)
+          publish_branch: gh-pages # Target branch for deployment
+          # cname: example.com # Uncomment for custom domain

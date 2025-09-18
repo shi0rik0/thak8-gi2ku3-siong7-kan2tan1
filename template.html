@@ -8,7 +8,6 @@
       audio {
         width: 400px;
         vertical-align: middle;
-        margin-left: 10px;
       }
       strong {
         font-weight: 800;
@@ -17,14 +16,23 @@
   </head>
   <body>
     <h1>讀語句上簡單</h1>
+    <h2>説明</h2>
+    <p>本網站的内容來自台灣教育部的《讀語句上簡單》。</p>
+    <p>
+      爲了方便學習，我使用了一種特殊的聲調標記法。
+      這種標記法會標注變調后的聲調，并且用形象的符號來表示聲調的高低。
+      保持原調的音節會用粗體表示。
+    </p>
+    <h2>正文</h2>
     <ol>
       {% for item in data %}
       <li>
         <p>{{ item.text }}</p>
         <p lang="en">{{ item.pronunciation | bold_bracketed | safe }}</p>
+        <p>{{ item.translation }}</p>
         <audio controls>
           <source src="audio/{{ item.audio }}" type="audio/mpeg" />
-          Your browser does not support the audio element.
+          您的瀏覽器不支援 audio 元素。
         </audio>
       </li>
       {% endfor %}

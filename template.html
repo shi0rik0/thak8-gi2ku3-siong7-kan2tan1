@@ -30,7 +30,7 @@
         <p>{{ item.text }}</p>
         <p lang="en">{{ item.pronunciation | bold_bracketed | safe }}</p>
         <p>{{ item.translation }}</p>
-        <audio controls>
+        <audio controls preload="none">
           <source src="audio/{{ item.audio }}" type="audio/mpeg" />
           您的瀏覽器不支援 audio 元素。
         </audio>

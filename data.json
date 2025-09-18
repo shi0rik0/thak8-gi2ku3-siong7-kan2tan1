@@ -85,7 +85,7 @@
     "chapter": "一人際",
     "id": 10,
     "text": "你莫怪伊。",
-    "pronunciation": "Lí mài kuài--i.",
+    "pronunciation": "li‾ mai\\ [kuai]_ i_.",
     "translation": "你別貴怪他。",
     "audio": "0301_01_10_04.mp3"
   },
@@ -94,7 +94,7 @@
     "chapter": "一人際",
     "id": 11,
     "text": "你捌伊無？",
-    "pronunciation": "Lí bat i--bô?",
+    "pronunciation": "li‾ [bat]_ i_ bo_?",
     "translation": "你認識他嗎？",
     "audio": "0301_01_11_04.mp3"
   },
@@ -103,7 +103,7 @@
     "chapter": "一人際",
     "id": 12,
     "text": "有這款可能。",
-    "pronunciation": "Ū tsit khuán khó-lîng.",
+    "pronunciation": "u_ tsit‾ khuan‾ kho‾ [ling]/.",
     "translation": "有這種可能。",
     "audio": "0301_01_12_04.mp3"
   },
@@ -112,7 +112,7 @@
     "chapter": "一人際",
     "id": 13,
     "text": "你共我記咧。",
-    "pronunciation": "Lí kā guá kì--leh.",
+    "pronunciation": "li‾ ka_ gua‾ [ki]_ leh_.",
     "translation": "你給我記住。",
     "audio": "0301_01_13_04.mp3"
   },
@@ -121,108 +121,120 @@
     "chapter": "一人際",
     "id": 14,
     "text": "著我的番矣。",
-    "pronunciation": "Tio̍h guá ê huan--ah.",
+    "pronunciation": "tio_ gua‾ e- [huan]‾ ah_.",
     "translation": "輪到我了。",
-    "audio": "0301_01_14_04.mp3"
+    "audio": "0301_01_14_04.mp3",
+    "pronunciation_original": "Tio̍h guá ê huan--ah."
   },
   {
     "page": 5,
     "chapter": "一人際",
     "id": 15,
-    "text": "伊加我一輩。",
-    "pronunciation": "I ke guá tsi̍t puè.",
+    "text": "伊懸我一輩。",
+    "pronunciation": "i- kuan- gua‾ tsit_ [pue]_.",
     "translation": "他長我一個輩分。",
-    "audio": "0301_01_15_05.mp3"
+    "audio": "0301_01_15_05.mp3",
+    "pronunciation_original": "I ke guá tsi̍t puè."
   },
   {
     "page": 5,
     "chapter": "一人際",
     "id": 16,
     "text": "我佮伊無親。",
-    "pronunciation": "Guá kah i bô tshin.",
+    "pronunciation": "gua‾ ka\\ i- bo- [tshin]‾.",
     "translation": "我和他不親近。",
-    "audio": "0301_01_16_05.mp3"
+    "audio": "0301_01_16_05.mp3",
+    "pronunciation_original": "Guá kah i bô tshin."
   },
   {
     "page": 5,
     "chapter": "一人際",
     "id": 17,
     "text": "你是按怎無來？",
-    "pronunciation": "Lí sī án-tsuánn bô lâi?",
+    "pronunciation": "li‾ si_ an‾ tsuann‾ bo- [lai]/?",
     "translation": "你為什麼沒有來？",
-    "audio": "0301_01_17_05.mp3"
+    "audio": "0301_01_17_05.mp3",
+    "pronunciation_original": "Lí sī án-tsuánn bô lâi?"
   },
   {
     "page": 5,
     "chapter": "一人際",
     "id": 18,
     "text": "我的冊借人矣。",
-    "pronunciation": "Guá ê tsheh tsioh--lâng--ah.",
+    "pronunciation": "gua‾ e- [tsheh]_ [tsioh]_ lang_ ah_.",
     "translation": "我的書借人了。",
-    "audio": "0301_01_18_05.mp3"
+    "audio": "0301_01_18_05.mp3",
+    "pronunciation_original": "Guá ê tsheh tsioh--lâng--ah."
   },
   {
     "page": 5,
     "chapter": "一人際",
     "id": 19,
-    "text": "你莫咧遐假𠢕。",
-    "pronunciation": "Lí mài teh hia ké-gâu.",
+    "text": "你莫佇遐假𠢕。",
+    "pronunciation": "li‾ mai\\ ti_ [hia]‾ ke‾ [gau]/.",
     "translation": "你不要自作聰明。",
-    "audio": "0301_01_19_05-1.mp3"
+    "audio": "0301_01_19_05-1.mp3",
+    "pronunciation_original": "Lí mài teh hia ké-gâu."
   },
   {
     "page": 5,
     "chapter": "一人際",
     "id": 20,
     "text": "好啦！莫吵啦！",
-    "pronunciation": "Hó--lah! Mài tshá--lah!",
+    "pronunciation": "[ho]\\ lah_! mai\\ [tsha]\\ lah_!",
     "translation": "好啦！別吵啦！",
-    "audio": "0301_01_20_05.mp3"
+    "audio": "0301_01_20_05.mp3",
+    "pronunciation_original": "Hó--lah! Mài tshá--lah!"
   },
   {
     "page": 5,
     "chapter": "一人際",
     "id": 21,
-    "text": "伊定定得罪人。",
-    "pronunciation": "I tiānn-tiānn tik-tsuē--lâng.",
+    "text": "伊定定得失人。",
+    "pronunciation": "i- tiann_ tiann_ tik‾ [sit]_ lang_.",
     "translation": "他常常得罪人。",
-    "audio": "0301_01_21_05.mp3"
+    "audio": "0301_01_21_05.mp3",
+    "pronunciation_original": "I tiānn-tiānn tik-tsuē--lâng."
   },
   {
     "page": 6,
     "chapter": "一人際",
     "id": 22,
     "text": "我比你較濟歲。",
-    "pronunciation": "Guá pí lí khah tsē huè.",
+    "pronunciation": "gua‾ pi‾ li‾ khah‾ tse_ [hue]_.",
     "translation": "我年紀比你大。",
-    "audio": "0301_01_22_06.mp3"
+    "audio": "0301_01_22_06.mp3",
+    "pronunciation_original": "Guá pí lí khah tsē huè."
   },
   {
     "page": 6,
     "chapter": "一人際",
     "id": 23,
     "text": "有也好，無也好。",
-    "pronunciation": "Ū iā-hó, bô iā-hó.",
+    "pronunciation": "[u]- ia_ [ho]\\, [bo]/ ia_ [ho]\\.",
     "translation": "有也好，沒有也好。",
-    "audio": "0301_01_23_06.mp3"
+    "audio": "0301_01_23_06.mp3",
+    "pronunciation_original": "Ū iā-hó, bô iā-hó."
   },
   {
     "page": 6,
     "chapter": "一人際",
     "id": 24,
     "text": "𪜶兩个個性會合。",
-    "pronunciation": "In nn̄g ê kò-sìng ē ha̍h.",
+    "pronunciation": "in- nng_ [e]/ ko\\ [sing]_ e_ [hah]‾.",
     "translation": "他們兩個個性合得來。",
-    "audio": "0301_01_24_06.mp3"
+    "audio": "0301_01_24_06.mp3",
+    "pronunciation_original": "In nn̄g ê kò-sìng ē ha̍h."
   },
   {
     "page": 6,
     "chapter": "一人際",
     "id": 25,
     "text": "我同意你的看法。",
-    "pronunciation": "Guá tông-ì lí ê khuànn-huat.",
+    "pronunciation": "gua‾ tong- i\\ li‾ e- khuann\\ [huat]_.",
     "translation": "我贊成你的看法。",
-    "audio": "0301_01_25_06.mp3"
+    "audio": "0301_01_25_06.mp3",
+    "pronunciation_original": "Guá tông-ì lí ê khuànn-huat."
   },
   {
     "page": 6,
@@ -231,7 +243,8 @@
     "text": "阿英仔真好笑神。",
     "pronunciation": "A-ing--á tsin hó-tshiò-sîn.",
     "translation": "阿英經常面帶笑容，眉開眼笑。",
-    "audio": "0301_01_26_06.mp3"
+    "audio": "0301_01_26_06.mp3",
+    "pronunciation_original": "A-ing--á tsin hó-tshiò-sîn."
   },
   {
     "page": 6,
@@ -240,7 +253,8 @@
     "text": "咱暫時袂當相見。",
     "pronunciation": "Lán tsiām-sî bē-tàng sio-kìnn.",
     "translation": "我們暫時不能見面。",
-    "audio": "0301_01_27_06.mp3"
+    "audio": "0301_01_27_06.mp3",
+    "pronunciation_original": "Lán tsiām-sî bē-tàng sio-kìnn."
   },
   {
     "page": 6,
@@ -249,7 +263,8 @@
     "text": "做人就愛捌道理。",
     "pronunciation": "Tsò-lâng tō ài bat tō-lí.",
     "translation": "做人要懂道理。",
-    "audio": "0301_01_28_06.mp3"
+    "audio": "0301_01_28_06.mp3",
+    "pronunciation_original": "Tsò-lâng tō ài bat tō-lí."
   },
   {
     "page": 7,
@@ -258,7 +273,8 @@
     "text": "伊是一个普通人。",
     "pronunciation": "I sī tsi̍t ê phóo-thong lâng.",
     "translation": "他是一般人。",
-    "audio": "0301_01_29_07.mp3"
+    "audio": "0301_01_29_07.mp3",
+    "pronunciation_original": "I sī tsi̍t ê phóo-thong lâng."
   },
   {
     "page": 7,
@@ -267,7 +283,8 @@
     "text": "你按呢講無毋著。",
     "pronunciation": "Lí án-ne kóng bô m̄-tio̍h.",
     "translation": "你這麼說沒錯。",
-    "audio": "0301_01_30_07.mp3"
+    "audio": "0301_01_30_07.mp3",
+    "pronunciation_original": "Lí án-ne kóng bô m̄-tio̍h."
   },
   {
     "page": 7,
@@ -276,7 +293,8 @@
     "text": "你猶有啥物代誌？",
     "pronunciation": "Lí iáu-ū siánn-mih tāi-tsì?",
     "translation": "你還有什麼事情？",
-    "audio": "0301_01_31_07.mp3"
+    "audio": "0301_01_31_07.mp3",
+    "pronunciation_original": "Lí iáu-ū siánn-mih tāi-tsì?"
   },
   {
     "page": 7,
@@ -285,7 +303,8 @@
     "text": "閣講嘛是無彩工。",
     "pronunciation": "Koh kóng mā sī bô-tshái-kang.",
     "translation": "再說什麼都是白費工夫。",
-    "audio": "0301_01_32_07.mp3"
+    "audio": "0301_01_32_07.mp3",
+    "pronunciation_original": "Koh kóng mā sī bô-tshái-kang."
   },
   {
     "page": 7,
@@ -294,7 +313,8 @@
     "text": "下早仔伊有來揣你。",
     "pronunciation": "E-tsái-á i ū lâi tshuē--lí.",
     "translation": "今天早上他來找你。",
-    "audio": "0301_01_33_07.mp3"
+    "audio": "0301_01_33_07.mp3",
+    "pronunciation_original": "E-tsái-á i ū lâi tshuē--lí."
   },
   {
     "page": 7,
@@ -303,7 +323,8 @@
     "text": "你講話毋好遐大聲。",
     "pronunciation": "Lí kóng-uē m̄ hó hiah tuā-siann.",
     "translation": "你講話不要那麼大聲。",
-    "audio": "0301_01_34_07.mp3"
+    "audio": "0301_01_34_07.mp3",
+    "pronunciation_original": "Lí kóng-uē m̄ hó hiah tuā-siann."
   },
   {
     "page": 7,
@@ -312,7 +333,8 @@
     "text": "兄弟姊妹著愛仝心。",
     "pronunciation": "Hiann-tī-tsí-muē tio̍h-ài kāng-sim.",
     "translation": "兄弟姊妹一定要同心。",
-    "audio": "0301_01_35_07.mp3"
+    "audio": "0301_01_35_07.mp3",
+    "pronunciation_original": "Hiann-tī-tsí-muē tio̍h-ài kāng-sim."
   },
   {
     "page": 8,
@@ -321,7 +343,8 @@
     "text": "你來遮有啥物目的？",
     "pronunciation": "Lí lâi tsia ū siánn-mih bo̍k-tik?",
     "translation": "你來這有什麼目的？",
-    "audio": "0301_01_36_07.mp3"
+    "audio": "0301_01_36_07.mp3",
+    "pronunciation_original": "Lí lâi tsia ū siánn-mih bo̍k-tik?"
   },
   {
     "page": 8,
@@ -330,7 +353,8 @@
     "text": "我相信你嘛有同感。",
     "pronunciation": "Guá siong-sìn lí mā ū tông-kám.",
     "translation": "我相信你也有同感。",
-    "audio": "0301_01_37_08.mp3"
+    "audio": "0301_01_37_08.mp3",
+    "pronunciation_original": "Guá siong-sìn lí mā ū tông-kám."
   },
   {
     "page": 8,
@@ -339,7 +363,8 @@
     "text": "希望你會使成全我。",
     "pronunciation": "Hi-bāng lí ē-sái sîng-tsuân--guá.",
     "translation": "希望你可以成全我。",
-    "audio": "0301_01_38_08.mp3"
+    "audio": "0301_01_38_08.mp3",
+    "pronunciation_original": "Hi-bāng lí ē-sái sîng-tsuân--guá."
   },
   {
     "page": 8,
@@ -348,7 +373,8 @@
     "text": "請逐家恬恬聽我講。",
     "pronunciation": "Tshiánn ta̍k-ke tiām-tiām thiann guá kóng.",
     "translation": "請大家安靜聽我說話。",
-    "audio": "0301_01_39_08.mp3"
+    "audio": "0301_01_39_08.mp3",
+    "pronunciation_original": "Tshiánn ta̍k-ke tiām-tiām thiann guá kóng."
   },
   {
     "page": 8,
@@ -357,7 +383,8 @@
     "text": "你緊來共我鬥跤手。",
     "pronunciation": "Lí kín lâi kā guá tàu-kha-tshiú.",
     "translation": "你快來幫我。",
-    "audio": "0301_01_40_08.mp3"
+    "audio": "0301_01_40_08.mp3",
+    "pronunciation_original": "Lí kín lâi kā guá tàu-kha-tshiú."
   },
   {
     "page": 8,
@@ -366,7 +393,8 @@
     "text": "啥人教你按呢做的？",
     "pronunciation": "Siánn-lâng kà lí án-ne tsò--ê?",
     "translation": "誰教你這樣做的？",
-    "audio": "0301_01_41_08.mp3"
+    "audio": "0301_01_41_08.mp3",
+    "pronunciation_original": "Siánn-lâng kà lí án-ne tsò--ê?"
   },
   {
     "page": 8,
@@ -375,7 +403,8 @@
     "text": "你陪我去彼爿好無？",
     "pronunciation": "Lí puê guá khì hit-pîng hó--bô?",
     "translation": "你陪我去那邊好不好？",
-    "audio": "0301_01_42_08.mp3"
+    "audio": "0301_01_42_08.mp3",
+    "pronunciation_original": "Lí puê guá khì hit-pîng hó--bô?"
   },
   {
     "page": 9,
@@ -384,7 +413,8 @@
     "text": "這个消息敢有確實？",
     "pronunciation": "Tsit ê siau-sit kám ū khak-si̍t?",
     "translation": "這個消息正確嗎？",
-    "audio": "0301_01_43_09.mp3"
+    "audio": "0301_01_43_09.mp3",
+    "pronunciation_original": "Tsit ê siau-sit kám ū khak-si̍t?"
   },
   {
     "page": 9,
@@ -393,7 +423,8 @@
     "text": "你莫閣學伊講話矣。",
     "pronunciation": "Lí mài koh o̍h i kóng-uē--ah.",
     "translation": "你別再學他說話了。",
-    "audio": "0301_01_44_09.mp3"
+    "audio": "0301_01_44_09.mp3",
+    "pronunciation_original": "Lí mài koh o̍h i kóng-uē--ah."
   },
   {
     "page": 9,
@@ -402,7 +433,8 @@
     "text": "諾，原來是按呢喔！",
     "pronunciation": "Hioh, guân-lâi sī án-ne--ooh!",
     "translation": "哦，原來是這樣喔！",
-    "audio": "0301_01_45_09.mp3"
+    "audio": "0301_01_45_09.mp3",
+    "pronunciation_original": "Hioh, guân-lâi sī án-ne--ooh!"
   },
   {
     "page": 9,
@@ -411,7 +443,8 @@
     "text": "邀請伊來參加活動。",
     "pronunciation": "Iau-tshiánn i lâi tsham-ka ua̍h-tāng.",
     "translation": "邀請他來參加活動。",
-    "audio": "0301_01_46_09-1.mp3"
+    "audio": "0301_01_46_09-1.mp3",
+    "pronunciation_original": "Iau-tshiánn i lâi tsham-ka ua̍h-tāng."
   },
   {
     "page": 9,
@@ -420,7 +453,8 @@
     "text": "你這个意見真寶貴。",
     "pronunciation": "Lí tsit ê ì-kiàn tsin pó-kuì.",
     "translation": "你這個意見很寶貴。",
-    "audio": "0301_01_47_09.mp3"
+    "audio": "0301_01_47_09.mp3",
+    "pronunciation_original": "Lí tsit ê ì-kiàn tsin pó-kuì."
   },
   {
     "page": 9,
@@ -429,7 +463,8 @@
     "text": "我毋知發生啥物代誌。",
     "pronunciation": "Guá m̄-tsai huat-sing siánn-mih tāi-tsì.",
     "translation": "我不知道發生什麼事。",
-    "audio": "0301_01_48_09.mp3"
+    "audio": "0301_01_48_09.mp3",
+    "pronunciation_original": "Guá m̄-tsai huat-sing siánn-mih tāi-tsì."
   },
   {
     "page": 9,
@@ -438,7 +473,8 @@
     "text": "我早就知影伊有問題。",
     "pronunciation": "Guá tsá tō tsai-iánn i ū būn-tê.",
     "translation": "我早就知道他有問題。",
-    "audio": "0301_01_49_09.mp3"
+    "audio": "0301_01_49_09.mp3",
+    "pronunciation_original": "Guá tsá tō tsai-iánn i ū būn-tê."
   },
   {
     "page": 10,
@@ -447,7 +483,8 @@
     "text": "咱千萬毋通拍歹感情。",
     "pronunciation": "Lán tshian-bān m̄-thang phah-pháinn kám-tsîng.",
     "translation": "我們千萬不可以破壞彼此的感情。",
-    "audio": "0301_01_50_10.mp3"
+    "audio": "0301_01_50_10.mp3",
+    "pronunciation_original": "Lán tshian-bān m̄-thang phah-pháinn kám-tsîng."
   },
   {
     "page": 10,
@@ -456,7 +493,8 @@
     "text": "恁兩个莫閣冤家矣啦！",
     "pronunciation": "Lín nn̄g ê mài koh uan-ke--ah--lah!",
     "translation": "你們兩個人不要再吵了啦！",
-    "audio": "0301_01_51_10.mp3"
+    "audio": "0301_01_51_10.mp3",
+    "pronunciation_original": "Lín nn̄g ê mài koh uan-ke--ah--lah!"
   },
   {
     "page": 10,
@@ -465,7 +503,8 @@
     "text": "我有接著你寄來的批。",
     "pronunciation": "Guá ū tsiap-tio̍h lí kià--lâi ê phue.",
     "translation": "我收到你寄來的信了。",
-    "audio": "0301_01_52_10.mp3"
+    "audio": "0301_01_52_10.mp3",
+    "pronunciation_original": "Guá ū tsiap-tio̍h lí kià--lâi ê phue."
   },
   {
     "page": 10,
@@ -474,7 +513,8 @@
     "text": "𪜶兩个人的感情真好。",
     "pronunciation": "In nn̄g ê lâng ê kám-tsîng tsin hó.",
     "translation": "他們兩個人的感情很好。",
-    "audio": "0301_01_53_10.mp3"
+    "audio": "0301_01_53_10.mp3",
+    "pronunciation_original": "In nn̄g ê lâng ê kám-tsîng tsin hó."
   },
   {
     "page": 10,
@@ -483,7 +523,8 @@
     "text": "這件代誌毋著的人是你。",
     "pronunciation": "Tsit kiānn tāi-tsì m̄-tio̍h ê lâng sī lí.",
     "translation": "這件事情錯的人是你。",
-    "audio": "0301_01_54_10.mp3"
+    "audio": "0301_01_54_10.mp3",
+    "pronunciation_original": "Tsit kiānn tāi-tsì m̄-tio̍h ê lâng sī lí."
   },
   {
     "page": 10,
@@ -492,7 +533,8 @@
     "text": "這件代誌我共伊回掉矣。",
     "pronunciation": "Tsit kiānn tāi-tsì guá kā i huê-tiāu--ah.",
     "translation": "這件事我已經謝絕他了。",
-    "audio": "0301_01_55_10.mp3"
+    "audio": "0301_01_55_10.mp3",
+    "pronunciation_original": "Tsit kiānn tāi-tsì guá kā i huê-tiāu--ah."
   },
   {
     "page": 10,
@@ -501,7 +543,8 @@
     "text": "你真正是娶著一个好某。",
     "pronunciation": "Lí tsin-tsiànn sī tshuā-tio̍h tsi̍t ê hó bóo.",
     "translation": "你真的是娶到一個好老婆。",
-    "audio": "0301_01_56_10.mp3"
+    "audio": "0301_01_56_10.mp3",
+    "pronunciation_original": "Lí tsin-tsiànn sī tshuā-tio̍h tsi̍t ê hó bóo."
   },
   {
     "page": 11,
@@ -510,7 +553,8 @@
     "text": "伊苦勸逐家愛關心社會。",
     "pronunciation": "I khóo-khǹg ta̍k-ke ài kuan-sim siā-huē.",
     "translation": "他勸告大家要關心社會。",
-    "audio": "0301_01_57_11.mp3"
+    "audio": "0301_01_57_11.mp3",
+    "pronunciation_original": "I khóo-khǹg ta̍k-ke ài kuan-sim siā-huē."
   },
   {
     "page": 11,
@@ -519,7 +563,8 @@
     "text": "慢且是，等伊來才閣講。",
     "pronunciation": "Bān-tshiánn-sī, tán i lâi tsiah-koh kóng.",
     "translation": "等一下，等他來了再說。",
-    "audio": "0301_01_58_11.mp3"
+    "audio": "0301_01_58_11.mp3",
+    "pronunciation_original": "Bān-tshiánn-sī, tán i lâi tsiah-koh kóng."
   },
   {
     "page": 11,
@@ -528,7 +573,8 @@
     "text": "我無佮意伊做代誌的方式。",
     "pronunciation": "Guá bô kah-ì i tsò tāi-tsì ê hong-sik.",
     "translation": "我不喜歡他做事情的方法。",
-    "audio": "0301_01_59_11.mp3"
+    "audio": "0301_01_59_11.mp3",
+    "pronunciation_original": "Guá bô kah-ì i tsò tāi-tsì ê hong-sik."
   },
   {
     "page": 11,
@@ -537,7 +583,8 @@
     "text": "我承認這項代誌是我毋著。",
     "pronunciation": "Guá sîng-jīn tsit hāng tāi-tsì sī guá m̄-tio̍h.",
     "translation": "我承認這件事是我不對。",
-    "audio": "0301_01_60_11.mp3"
+    "audio": "0301_01_60_11.mp3",
+    "pronunciation_original": "Guá sîng-jīn tsit hāng tāi-tsì sī guá m̄-tio̍h."
   },
   {
     "page": 11,
@@ -546,7 +593,8 @@
     "text": "逐家咧開講，講甲笑咍咍。",
     "pronunciation": "Ta̍k-ke teh khai-káng, kóng kah tshiò-hai-hai.",
     "translation": "大家在聊天，說得哈哈笑。",
-    "audio": "0301_01_61_11.mp3"
+    "audio": "0301_01_61_11.mp3",
+    "pronunciation_original": "Ta̍k-ke teh khai-káng, kóng kah tshiò-hai-hai."
   },
   {
     "page": 11,
@@ -555,7 +603,8 @@
     "text": "聽你的腔口敢若是臺南人。",
     "pronunciation": "Thiann lí ê khiunn-kháu kánn-ná sī Tâi-lâm-lâng.",
     "translation": "聽你的腔調好像是臺南人。",
-    "audio": "0301_01_62_11.mp3"
+    "audio": "0301_01_62_11.mp3",
+    "pronunciation_original": "Thiann lí ê khiunn-kháu kánn-ná sī Tâi-lâm-lâng."
   },
   {
     "page": 11,
@@ -564,7 +613,8 @@
     "text": "我共你當做是上好的朋友。",
     "pronunciation": "Guá kā lí tòng-tsò sī siōng hó ê pîng-iú.",
     "translation": "我把你當做是最好的朋友。",
-    "audio": "0301_01_63_11.mp3"
+    "audio": "0301_01_63_11.mp3",
+    "pronunciation_original": "Guá kā lí tòng-tsò sī siōng hó ê pîng-iú."
   },
   {
     "page": 12,
@@ -573,7 +623,8 @@
     "text": "伊萬項代誌攏愛人鬥相共。",
     "pronunciation": "I bān-hāng tāi-tsì lóng ài lâng tàu-sann-kāng.",
     "translation": "他每件事都要別人幫忙。",
-    "audio": "0301_01_64_12.mp3"
+    "audio": "0301_01_64_12.mp3",
+    "pronunciation_original": "I bān-hāng tāi-tsì lóng ài lâng tàu-sann-kāng."
   },
   {
     "page": 12,
@@ -582,7 +633,8 @@
     "text": "你敢有聽著彼件代誌的風聲？",
     "pronunciation": "Lí kám ū thiann-tio̍h hit kiānn tāi-tsì ê hong-siann?",
     "translation": "你有沒有聽到那件事情的消息？",
-    "audio": "0301_01_65_12.mp3"
+    "audio": "0301_01_65_12.mp3",
+    "pronunciation_original": "Lí kám ū thiann-tio̍h hit kiānn tāi-tsì ê hong-siann?"
   },
   {
     "page": 12,
@@ -591,7 +643,8 @@
     "text": "這件代誌咱有需要參詳一下！",
     "pronunciation": "Tsit kiānn tāi-tsì lán ū su-iàu tsham-siông--tsi̍t-ē!",
     "translation": "這件事情我們需要商量一下！",
-    "audio": "0301_01_66_12.mp3"
+    "audio": "0301_01_66_12.mp3",
+    "pronunciation_original": "Tsit kiānn tāi-tsì lán ū su-iàu tsham-siông--tsi̍t-ē!"
   },
   {
     "page": 12,
@@ -600,7 +653,8 @@
     "text": "無代無誌你是按怎會去惹伊？",
     "pronunciation": "Bô-tāi-bô-tsì lí sī-án-tsuánn ē khì jiá--i?",
     "translation": "沒事你幹嘛去惹他？",
-    "audio": "0301_01_67_12.mp3"
+    "audio": "0301_01_67_12.mp3",
+    "pronunciation_original": "Bô-tāi-bô-tsì lí sī-án-tsuánn ē khì jiá--i?"
   },
   {
     "page": 12,
@@ -609,7 +663,8 @@
     "text": "人咧叫你，你嘛共人應一下。",
     "pronunciation": "Lâng teh kiò--lí, lí mā kā lâng ìn--tsi̍t-ē.",
     "translation": "人家在叫你，你好歹也回答一下。",
-    "audio": "0301_01_68_12.mp3"
+    "audio": "0301_01_68_12.mp3",
+    "pronunciation_original": "Lâng teh kiò--lí, lí mā kā lâng ìn--tsi̍t-ē."
   },
   {
     "page": 12,
@@ -618,7 +673,8 @@
     "text": "你出門在外，家己千萬愛細膩。",
     "pronunciation": "Lí tshut-mn̂g tsāi guā, ka-kī tshian-bān ài sè-jī.",
     "translation": "你出門在外，自己千萬要小心。",
-    "audio": "0301_01_69_12.mp3"
+    "audio": "0301_01_69_12.mp3",
+    "pronunciation_original": "Lí tshut-mn̂g tsāi guā, ka-kī tshian-bān ài sè-jī."
   },
   {
     "page": 12,
@@ -627,7 +683,8 @@
     "text": "兩个囡仔為著𨑨迌物仔咧冤。",
     "pronunciation": "Nn̄g ê gín-á uī-tio̍h tshit-thô-mih-á teh uan.",
     "translation": "兩個孩子為了玩具而吵架。",
-    "audio": "0301_01_70_12.mp3"
+    "audio": "0301_01_70_12.mp3",
+    "pronunciation_original": "Nn̄g ê gín-á uī-tio̍h tshit-thô-mih-á teh uan."
   },
   {
     "page": 13,
@@ -636,7 +693,8 @@
     "text": "阿伯𠢕早。",
     "pronunciation": "A-peh gâu-tsá.",
     "translation": "老伯早安。",
-    "audio": "0301_01_71_13.mp3"
+    "audio": "0301_01_71_13.mp3",
+    "pronunciation_original": "A-peh gâu-tsá."
   },
   {
     "page": 13,
@@ -645,7 +703,8 @@
     "text": "你號做啥物名？",
     "pronunciation": "Lí hō-tsò siánn-mih miâ?",
     "translation": "你叫什麼名字？",
-    "audio": "0301_01_72_13.mp3"
+    "audio": "0301_01_72_13.mp3",
+    "pronunciation_original": "Lí hō-tsò siánn-mih miâ?"
   },
   {
     "page": 13,
@@ -654,7 +713,8 @@
     "text": "伊是我的家後。",
     "pronunciation": "I sī guá ê ke-āu.",
     "translation": "她是我的妻子。",
-    "audio": "0301_01_73_13.mp3"
+    "audio": "0301_01_73_13.mp3",
+    "pronunciation_original": "I sī guá ê ke-āu."
   },
   {
     "page": 13,
@@ -663,7 +723,8 @@
     "text": "伊蹛佇阮隔壁。",
     "pronunciation": "I tuà tī guán keh-piah.",
     "translation": "他是我鄰居。",
-    "audio": "0301_01_74_13.mp3"
+    "audio": "0301_01_74_13.mp3",
+    "pronunciation_original": "I tuà tī guán keh-piah."
   },
   {
     "page": 13,
@@ -672,7 +733,8 @@
     "text": "這个囡仔號名未？",
     "pronunciation": "Tsit ê gín-á hō-miâ--buē?",
     "translation": "這個小孩命名了沒？",
-    "audio": "0301_01_75_13.mp3"
+    "audio": "0301_01_75_13.mp3",
+    "pronunciation_original": "Tsit ê gín-á hō-miâ--buē?"
   },
   {
     "page": 13,
@@ -681,7 +743,8 @@
     "text": "阮囝今年二十出頭矣。",
     "pronunciation": "Guán kiánn kin-nî jī-tsa̍p tshut-thâu--ah.",
     "translation": "我兒子今年二十多歲了。",
-    "audio": "0301_01_76_13.mp3"
+    "audio": "0301_01_76_13.mp3",
+    "pronunciation_original": "Guán kiánn kin-nî jī-tsa̍p tshut-thâu--ah."
   },
   {
     "page": 13,
@@ -690,7 +753,8 @@
     "text": "𪜶兩个自小學就是同窗。",
     "pronunciation": "In nn̄g ê tsū sió-ha̍k tō sī tông-tshong.",
     "translation": "他們兩個人從小學就是同學。",
-    "audio": "0301_01_77_13.mp3"
+    "audio": "0301_01_77_13.mp3",
+    "pronunciation_original": "In nn̄g ê tsū sió-ha̍k tō sī tông-tshong."
   },
   {
     "page": 14,
@@ -924,7 +988,8 @@
     "text": "毋通予豆油滴落來。",
     "pronunciation": "M̄-thang hōo tāu-iû tih--lo̍h-lâi.",
     "translation": "不要讓醬油滴下來。",
-    "audio": "0301_03_14_17.mp3"
+    "audio": "0301_03_14_17.mp3",
+    "pronunciation_original": "M̄-thang hōo tāu-iû tih--lo̍h-lâi."
   },
   {
     "page": 18,
@@ -933,7 +998,8 @@
     "text": "你敢有鼻著臭火焦味？",
     "pronunciation": "Lí kám-ū phīnn-tio̍h tshàu-hué-ta bī?",
     "translation": "你聞到燒焦味了嗎？",
-    "audio": "0301_03_15_18.mp3"
+    "audio": "0301_03_15_18.mp3",
+    "pronunciation_original": "Lí kám-ū phīnn-tio̍h tshàu-hué-ta bī?"
   },
   {
     "page": 18,
@@ -942,7 +1008,8 @@
     "text": "這个湯頭的滋味袂䆀。",
     "pronunciation": "Tsit ê thng-thâu ê tsu-bī bē-bái.",
     "translation": "這個湯頭的味道不錯。",
-    "audio": "0301_03_16_18.mp3"
+    "audio": "0301_03_16_18.mp3",
+    "pronunciation_original": "Tsit ê thng-thâu ê tsu-bī bē-bái."
   },
   {
     "page": 18,
@@ -951,7 +1018,8 @@
     "text": "伊共餅貯入去盒仔底。",
     "pronunciation": "I kā piánn té ji̍p-khì a̍p-á-té.",
     "translation": "他把餅乾裝進去盒子裡頭。",
-    "audio": "0301_03_17_18.mp3"
+    "audio": "0301_03_17_18.mp3",
+    "pronunciation_original": "I kā piánn té ji̍p-khì a̍p-á-té."
   },
   {
     "page": 18,
@@ -960,7 +1028,8 @@
     "text": "新竹出產的貢丸真有名。",
     "pronunciation": "Sin-tik tshut-sán ê kòng-uân tsin ū-miâ.",
     "translation": "新竹生產的貢丸很有名。",
-    "audio": "0301_03_18_18.mp3"
+    "audio": "0301_03_18_18.mp3",
+    "pronunciation_original": "Sin-tik tshut-sán ê kòng-uân tsin ū-miâ."
   },
   {
     "page": 18,
@@ -969,7 +1038,8 @@
     "text": "你欲啉咖啡抑是欲啉茶？",
     "pronunciation": "Lí beh lim ka-pi ia̍h-sī beh lim-tê?",
     "translation": "你要喝咖啡還是要喝茶？",
-    "audio": "0301_03_19_18.mp3"
+    "audio": "0301_03_19_18.mp3",
+    "pronunciation_original": "Lí beh lim ka-pi ia̍h-sī beh lim-tê?"
   },
   {
     "page": 18,
@@ -978,7 +1048,8 @@
     "text": "西瓜著愛著時才會好食。",
     "pronunciation": "Si-kue tio̍h-ài tio̍h-sî tsiah ē hó-tsia̍h.",
     "translation": "西瓜要當季出產的才好吃。",
-    "audio": "0301_03_20_18.mp3"
+    "audio": "0301_03_20_18.mp3",
+    "pronunciation_original": "Si-kue tio̍h-ài tio̍h-sî tsiah ē hó-tsia̍h."
   },
   {
     "page": 18,
@@ -987,7 +1058,8 @@
     "text": "我的嚨喉㧎著一支魚刺。",
     "pronunciation": "Guá ê nâ-âu khê-tio̍h tsi̍t-ki hî-tshì.",
     "translation": "我的喉嚨卡著一根魚刺。",
-    "audio": "0301_03_21_18.mp3"
+    "audio": "0301_03_21_18.mp3",
+    "pronunciation_original": "Guá ê nâ-âu khê-tio̍h tsi̍t-ki hî-tshì."
   },
   {
     "page": 19,
@@ -996,7 +1068,8 @@
     "text": "糖仔一人一粒，毋通相爭。",
     "pronunciation": "Thn̂g-á tsi̍t lâng tsi̍t lia̍p, m̄-thang sio-tsenn.",
     "translation": "糖果一人一顆，不要爭。",
-    "audio": "0301_03_22_19.mp3"
+    "audio": "0301_03_22_19.mp3",
+    "pronunciation_original": "Thn̂g-á tsi̍t lâng tsi̍t lia̍p, m̄-thang sio-tsenn."
   },
   {
     "page": 19,
@@ -1005,7 +1078,8 @@
     "text": "叫恁老爸趕緊轉來食暗啦。",
     "pronunciation": "Kiò lín lāu-pē kuánn-kín tńg-lâi tsia̍h-àm--lah.",
     "translation": "叫你爸爸趕快回來吃晚飯啦。",
-    "audio": "0301_03_23_19.mp3"
+    "audio": "0301_03_23_19.mp3",
+    "pronunciation_original": "Kiò lín lāu-pē kuánn-kín tńg-lâi tsia̍h-àm--lah."
   },
   {
     "page": 19,
@@ -1014,7 +1088,8 @@
     "text": "我來揀菜，揀好才予你洗。",
     "pronunciation": "Guá lâi kíng-tshài, kíng-hó tsiah hōo lí sé.",
     "translation": "我來挑菜，挑好再給你洗。",
-    "audio": "0301_03_24_19.mp3"
+    "audio": "0301_03_24_19.mp3",
+    "pronunciation_original": "Guá lâi kíng-tshài, kíng-hó tsiah hōo lí sé."
   },
   {
     "page": 19,
@@ -1023,7 +1098,8 @@
     "text": "伊第一擺煮的菜閣袂歹食。",
     "pronunciation": "I tē-it pái tsú ê tshài koh bē pháinn-tsia̍h.",
     "translation": "他第一次煮的菜還不難吃。",
-    "audio": "0301_03_25_19.mp3"
+    "audio": "0301_03_25_19.mp3",
+    "pronunciation_original": "I tē-it pái tsú ê tshài koh bē pháinn-tsia̍h."
   },
   {
     "page": 19,
@@ -1032,7 +1108,8 @@
     "text": "食物一定愛清氣，才有衛生。",
     "pronunciation": "Si̍t-bu̍t it-tīng ài tshing-khì, tsiah ū uē-sing.",
     "translation": "食物一定要乾淨，才衛生。",
-    "audio": "0301_03_26_19.mp3"
+    "audio": "0301_03_26_19.mp3",
+    "pronunciation_original": "Si̍t-bu̍t it-tīng ài tshing-khì, tsiah ū uē-sing."
   },
   {
     "page": 19,
@@ -1041,7 +1118,8 @@
     "text": "這塊碗較深，會使貯較濟湯。",
     "pronunciation": "Tsit tè uánn khah tshim, ē-sái té khah tsè thng.",
     "translation": "這個碗比較深，能盛比較多的湯。",
-    "audio": "0301_03_27_19.mp3"
+    "audio": "0301_03_27_19.mp3",
+    "pronunciation_original": "Tsit tè uánn khah tshim, ē-sái té khah tsè thng."
   },
   {
     "page": 19,
@@ -1050,7 +1128,8 @@
     "text": "這鼎肉我滷規下晡，芳絳絳。",
     "pronunciation": "Tsit tiánn bah guá lóo kui ē-poo, phang-kòng-kòng.",
     "translation": "這鍋肉我滷了整個下午，香噴噴的。",
-    "audio": "0301_03_28_19.mp3"
+    "audio": "0301_03_28_19.mp3",
+    "pronunciation_original": "Tsit tiánn bah guá lóo kui ē-poo, phang-kòng-kòng."
   },
   {
     "page": 20,
@@ -1059,7 +1138,8 @@
     "text": "伊逐工透早攏愛啉豆奶、食包仔。",
     "pronunciation": "I ta̍k kang thàu-tsá lóng ài lim tāu-ling, tsia̍h pau-á.",
     "translation": "他每天一大早都要喝豆漿、吃包子。",
-    "audio": "0301_03_29_20.mp3"
+    "audio": "0301_03_29_20.mp3",
+    "pronunciation_original": "I ta̍k kang thàu-tsá lóng ài lim tāu-ling, tsia̍h pau-á."
   },
   {
     "page": 21,
@@ -1185,7 +1265,8 @@
     "text": "你毋通傷晏轉來。",
     "pronunciation": "Lí m̄-thang siunn uànn tńg--lâi.",
     "translation": "你別太晚回來。",
-    "audio": "0301_04_14_22.mp3"
+    "audio": "0301_04_14_22.mp3",
+    "pronunciation_original": "Lí m̄-thang siunn uànn tńg--lâi."
   },
   {
     "page": 23,
@@ -1194,7 +1275,8 @@
     "text": "昨暗伊無轉來睏。",
     "pronunciation": "Tsa-àm i bô tńg-lâi khùn.",
     "translation": "昨晚他沒有回來睡。",
-    "audio": "0301_04_15_23.mp3"
+    "audio": "0301_04_15_23.mp3",
+    "pronunciation_original": "Tsa-àm i bô tńg-lâi khùn."
   },
   {
     "page": 23,
@@ -1203,7 +1285,8 @@
     "text": "你莫徛佇遮鎮地。",
     "pronunciation": "Lí mài khiā tī tsia tìn tè.",
     "translation": "你不要站在這裡礙事。",
-    "audio": "0301_04_16_23.mp3"
+    "audio": "0301_04_16_23.mp3",
+    "pronunciation_original": "Lí mài khiā tī tsia tìn tè."
   },
   {
     "page": 23,
@@ -1212,7 +1295,8 @@
     "text": "出力共伊捻落去。",
     "pronunciation": "Tshut-la̍t kā i liàm--lo̍h-khì.",
     "translation": "用力捏下去。",
-    "audio": "0301_04_17_23.mp3"
+    "audio": "0301_04_17_23.mp3",
+    "pronunciation_original": "Tshut-la̍t kā i liàm--lo̍h-khì."
   },
   {
     "page": 23,
@@ -1221,7 +1305,8 @@
     "text": "桌仔予蟲蛀一空。",
     "pronunciation": "Toh-á hōo thâng tsiù tsi̍t khang.",
     "translation": "桌子被蟲咬蝕了一個洞。",
-    "audio": "0301_04_18_23.mp3"
+    "audio": "0301_04_18_23.mp3",
+    "pronunciation_original": "Toh-á hōo thâng tsiù tsi̍t khang."
   },
   {
     "page": 23,
@@ -1230,7 +1315,8 @@
     "text": "來喔！緊來看喔！",
     "pronunciation": "Lâi--ooh! Kín lâi khuànn--ooh!",
     "translation": "來喔！快來看喔！",
-    "audio": "0301_04_19_23.mp3"
+    "audio": "0301_04_19_23.mp3",
+    "pronunciation_original": "Lâi--ooh! Kín lâi khuànn--ooh!"
   },
   {
     "page": 23,
@@ -1239,7 +1325,8 @@
     "text": "共物件提落來遮。",
     "pronunciation": "Kā mi̍h-kiānn the̍h lo̍h-lâi tsia.",
     "translation": "把東西拿下來這裡。",
-    "audio": "0301_04_20_23.mp3"
+    "audio": "0301_04_20_23.mp3",
+    "pronunciation_original": "Kā mi̍h-kiānn the̍h lo̍h-lâi tsia."
   },
   {
     "page": 23,
@@ -1248,7 +1335,8 @@
     "text": "伊的頭去挵著桌角。",
     "pronunciation": "I ê thâu khì lòng-tio̍h toh-kak.",
     "translation": "他的頭撞到了桌角。",
-    "audio": "0301_04_21_23.mp3"
+    "audio": "0301_04_21_23.mp3",
+    "pronunciation_original": "I ê thâu khì lòng-tio̍h toh-kak."
   },
   {
     "page": 24,
@@ -1257,7 +1345,8 @@
     "text": "辛苦囉！歇睏一下。",
     "pronunciation": "Sin-khóo--looh! Hioh-khùn--tsi̍t-ē.",
     "translation": "辛苦了！休息一下。",
-    "audio": "0301_04_22_24.mp3"
+    "audio": "0301_04_22_24.mp3",
+    "pronunciation_original": "Sin-khóo--looh! Hioh-khùn--tsi̍t-ē."
   },
   {
     "page": 24,
@@ -1266,7 +1355,8 @@
     "text": "你去捀茶來予人客啉。",
     "pronunciation": "Lí khì phâng-tê lâi hōo lâng-kheh lim.",
     "translation": "你去端茶來給客人喝。",
-    "audio": "0301_04_23_24.mp3"
+    "audio": "0301_04_23_24.mp3",
+    "pronunciation_original": "Lí khì phâng-tê lâi hōo lâng-kheh lim."
   },
   {
     "page": 24,
@@ -1275,7 +1365,8 @@
     "text": "共這幅圖釘佇這面壁。",
     "pronunciation": "Kā tsit pak tôo tìng tī tsit bīn piah.",
     "translation": "把這幅圖釘在這面牆上。",
-    "audio": "0301_04_24_24.mp3"
+    "audio": "0301_04_24_24.mp3",
+    "pronunciation_original": "Kā tsit pak tôo tìng tī tsit bīn piah."
   },
   {
     "page": 24,
@@ -1284,7 +1375,8 @@
     "text": "我試看會當揣著伊無。",
     "pronunciation": "Guá tshì-khuànn ē-tàng tshuē-tio̍h i--bô.",
     "translation": "我試試看能不能找到他。",
-    "audio": "0301_04_25_24.mp3"
+    "audio": "0301_04_25_24.mp3",
+    "pronunciation_original": "Guá tshì-khuànn ē-tàng tshuē-tio̍h i--bô."
   },
   {
     "page": 24,
@@ -1293,7 +1385,8 @@
     "text": "我行到半路就拄著伊矣。",
     "pronunciation": "Guá kiânn kàu puànn-lōo tō tú-tio̍h i--ah.",
     "translation": "我走到半路就遇見他了。",
-    "audio": "0301_04_26_24.mp3"
+    "audio": "0301_04_26_24.mp3",
+    "pronunciation_original": "Guá kiânn kàu puànn-lōo tō tú-tio̍h i--ah."
   },
   {
     "page": 24,
@@ -1302,7 +1395,8 @@
     "text": "各人的物件愛顧予好。",
     "pronunciation": "Kok-lâng ê mi̍h-kiānn ài kòo hōo hó.",
     "translation": "各自的東西要看好。",
-    "audio": "0301_04_27_24.mp3"
+    "audio": "0301_04_27_24.mp3",
+    "pronunciation_original": "Kok-lâng ê mi̍h-kiānn ài kòo hōo hó."
   },
   {
     "page": 24,
@@ -1311,7 +1405,8 @@
     "text": "掀過來，後壁嘛會使寫。",
     "pronunciation": "Hian--kuè-lâi, āu-piah mā ē-sái siá.",
     "translation": "翻過來，背面也可以寫。",
-    "audio": "0301_04_28_24.mp3"
+    "audio": "0301_04_28_24.mp3",
+    "pronunciation_original": "Hian--kuè-lâi, āu-piah mā ē-sái siá."
   },
   {
     "page": 25,
@@ -1320,7 +1415,8 @@
     "text": "物件用了，愛囥蹛原位。",
     "pronunciation": "Mi̍h-kiānn īng liáu, ài khǹg tuà guân-uī.",
     "translation": "東西用完，要放回原位。",
-    "audio": "0301_04_29_25.mp3"
+    "audio": "0301_04_29_25.mp3",
+    "pronunciation_original": "Mi̍h-kiānn īng liáu, ài khǹg tuà guân-uī."
   },
   {
     "page": 25,
@@ -1329,7 +1425,8 @@
     "text": "逐擺看著伊攏微微仔笑。",
     "pronunciation": "Ta̍k-pái khuànn-tio̍h i lóng bî-bî-á tshiò.",
     "translation": "每次看到他都微微笑。",
-    "audio": "0301_04_30_25.mp3"
+    "audio": "0301_04_30_25.mp3",
+    "pronunciation_original": "Ta̍k-pái khuànn-tio̍h i lóng bî-bî-á tshiò."
   },
   {
     "page": 25,
@@ -1338,7 +1435,8 @@
     "text": "欲上崎矣，你著愛出力行。",
     "pronunciation": "Beh tsiūnn-kiā--ah, lí tio̍h-ài tshut-la̍t kiânn.",
     "translation": "要上坡了，你得用力走。",
-    "audio": "0301_04_31_25.mp3"
+    "audio": "0301_04_31_25.mp3",
+    "pronunciation_original": "Beh tsiūnn-kiā--ah, lí tio̍h-ài tshut-la̍t kiânn."
   },
   {
     "page": 25,
@@ -1347,7 +1445,8 @@
     "text": "伊共我拍，我用手共伊掰開。",
     "pronunciation": "I kā guá phah, guá iōng tshiú kā i pué--khui.",
     "translation": "他打我，我用手把他擋開。",
-    "audio": "0301_04_32_25.mp3"
+    "audio": "0301_04_32_25.mp3",
+    "pronunciation_original": "I kā guá phah, guá iōng tshiú kā i pué--khui."
   },
   {
     "page": 25,
@@ -1356,7 +1455,8 @@
     "text": "禮拜欲大摒掃，毋通走出去耍。",
     "pronunciation": "Lé-pài beh tuā-piànn-sàu, m̄-thang tsáu tshut-khì sńg.",
     "translation": "星期日要大掃除，不要跑出去玩。",
-    "audio": "0301_04_33_25.mp3"
+    "audio": "0301_04_33_25.mp3",
+    "pronunciation_original": "Lé-pài beh tuā-piànn-sàu, m̄-thang tsáu tshut-khì sńg."
   },
   {
     "page": 25,
@@ -1365,7 +1465,8 @@
     "text": "這件代誌啥物時陣欲開始動手？",
     "pronunciation": "Tsit kiānn tāi-tsì siánn-mih sî-tsūn beh khai-sí tāng-tshiú?",
     "translation": "這件事情什麼時候開始著手進行？",
-    "audio": "0301_04_34_25.mp3"
+    "audio": "0301_04_34_25.mp3",
+    "pronunciation_original": "Tsit kiānn tāi-tsì siánn-mih sî-tsūn beh khai-sí tāng-tshiú?"
   },
   {
     "page": 25,
@@ -1374,7 +1475,8 @@
     "text": "你欲出門進前，愛會記得紮錢。",
     "pronunciation": "Lí beh tshut-mn̂g tsìn-tsîng, ài ē-kì-tit tsah tsînn.",
     "translation": "你要出門之前，要記得帶錢。",
-    "audio": "0301_04_35_25.mp3"
+    "audio": "0301_04_35_25.mp3",
+    "pronunciation_original": "Lí beh tshut-mn̂g tsìn-tsîng, ài ē-kì-tit tsah tsînn."
   },
   {
     "page": 26,
@@ -1383,7 +1485,8 @@
     "text": "你若有閒工，就來共我鬥相共。",
     "pronunciation": "Lí nā ū îng-kang, tō lâi kā guá tàu-sann-kāng.",
     "translation": "你如果有閒工夫，就來幫我的忙。",
-    "audio": "0301_04_36_26.mp3"
+    "audio": "0301_04_36_26.mp3",
+    "pronunciation_original": "Lí nā ū îng-kang, tō lâi kā guá tàu-sann-kāng."
   },
   {
     "page": 26,
@@ -1392,7 +1495,8 @@
     "text": "我有寫批予伊，毋過伊攏無共我回。",
     "pronunciation": "Guá ū siá phue hōo--i, m̄-koh i lóng bô kā guá huê.",
     "translation": "我寫信給他，不過他都沒回信給我。",
-    "audio": "0301_04_37_26.mp3"
+    "audio": "0301_04_37_26.mp3",
+    "pronunciation_original": "Guá ū siá phue hōo--i, m̄-koh i lóng bô kā guá huê."
   },
   {
     "page": 27,
@@ -1518,7 +1622,8 @@
     "text": "𪜶兜火燒厝，你緊去叫𪜶老爸轉去。",
     "pronunciation": "In tau hué-sio-tshù, lí kín khì kiò in lāu-pē tńg--khì.",
     "translation": "他家發生火災，你趕快去叫他爸爸回去。",
-    "audio": "0301_05_14_28.mp3"
+    "audio": "0301_05_14_28.mp3",
+    "pronunciation_original": "In tau hué-sio-tshù, lí kín khì kiò in lāu-pē tńg--khì."
   },
   {
     "page": 29,
@@ -1527,7 +1632,8 @@
     "text": "便所臭薟薟，予人鼻著強欲擋袂牢。",
     "pronunciation": "Piān-sóo tshàu-hiam-hiam, hōo lâng phīnn-tio̍h kiōng-beh tòng bē tiâu.",
     "translation": "廁所刺鼻的尿騷味，讓人聞了快受不了。",
-    "audio": "0301_05_15_29.mp3"
+    "audio": "0301_05_15_29.mp3",
+    "pronunciation_original": "Piān-sóo tshàu-hiam-hiam, hōo lâng phīnn-tio̍h kiōng-beh tòng bē tiâu."
   },
   {
     "page": 30,
@@ -1752,7 +1858,8 @@
     "text": "這塊盤仔有缺角。",
     "pronunciation": "Tsit tè puânn-á ū khih-kak.",
     "translation": "這個盤子有缺角。",
-    "audio": "0301_07_14_33.mp3"
+    "audio": "0301_07_14_33.mp3",
+    "pronunciation_original": "Tsit tè puânn-á ū khih-kak."
   },
   {
     "page": 34,
@@ -1761,7 +1868,8 @@
     "text": "小掠一个大概仔。",
     "pronunciation": "Sió lia̍h tsi̍t-ê tāi-khài-á.",
     "translation": "稍微估個大概。",
-    "audio": "0301_07_15_34.mp3"
+    "audio": "0301_07_15_34.mp3",
+    "pronunciation_original": "Sió lia̍h tsi̍t-ê tāi-khài-á."
   },
   {
     "page": 34,
@@ -1770,7 +1878,8 @@
     "text": "買一條袚鍊送伊。",
     "pronunciation": "Bé tsi̍t tiâu phua̍h-liān sàng--i.",
     "translation": "買一條項鍊送給他。",
-    "audio": "0301_07_16_34.mp3"
+    "audio": "0301_07_16_34.mp3",
+    "pronunciation_original": "Bé tsi̍t tiâu phua̍h-liān sàng--i."
   },
   {
     "page": 34,
@@ -1779,7 +1888,8 @@
     "text": "共相片印佇杯仔頂。",
     "pronunciation": "Kā siòng-phìnn ìn tī pue-á-tíng.",
     "translation": "把照片印在杯子上。",
-    "audio": "0301_07_17_34.mp3"
+    "audio": "0301_07_17_34.mp3",
+    "pronunciation_original": "Kā siòng-phìnn ìn tī pue-á-tíng."
   },
   {
     "page": 34,
@@ -1788,7 +1898,8 @@
     "text": "這塊布的色緻真媠。",
     "pronunciation": "Tsit tè pòo ê sik-tī tsin suí.",
     "translation": "這塊布的顏色真美。",
-    "audio": "0301_07_18_34.mp3"
+    "audio": "0301_07_18_34.mp3",
+    "pronunciation_original": "Tsit tè pòo ê sik-tī tsin suí."
   },
   {
     "page": 34,
@@ -1797,7 +1908,8 @@
     "text": "我的手機仔害去矣。",
     "pronunciation": "Guá ê tshiú-ki-á hāi--khì--ah.",
     "translation": "我的手機壞掉了。",
-    "audio": "0301_07_19_34.mp3"
+    "audio": "0301_07_19_34.mp3",
+    "pronunciation_original": "Guá ê tshiú-ki-á hāi--khì--ah."
   },
   {
     "page": 34,
@@ -1806,7 +1918,8 @@
     "text": "伊想欲買一組膨椅。",
     "pronunciation": "I siūnn-beh bé tsi̍t tsoo phòng-í.",
     "translation": "他想要買一套沙發。",
-    "audio": "0301_07_20_34.mp3"
+    "audio": "0301_07_20_34.mp3",
+    "pronunciation_original": "I siūnn-beh bé tsi̍t tsoo phòng-í."
   },
   {
     "page": 34,
@@ -1815,7 +1928,8 @@
     "text": "伊換鋪就睏袂去矣。",
     "pronunciation": "I uānn-phoo tō khùn bē khì--ah.",
     "translation": "他換床舖就睡不著了。",
-    "audio": "0301_07_21_34.mp3"
+    "audio": "0301_07_21_34.mp3",
+    "pronunciation_original": "I uānn-phoo tō khùn bē khì--ah."
   },
   {
     "page": 35,
@@ -1824,7 +1938,8 @@
     "text": "電話的線路歹去矣。",
     "pronunciation": "Tiān-uē ê suànn-lōo pháinn--khì--ah.",
     "translation": "電話的管線壞掉了。",
-    "audio": "0301_07_22_35.mp3"
+    "audio": "0301_07_22_35.mp3",
+    "pronunciation_original": "Tiān-uē ê suànn-lōo pháinn--khì--ah."
   },
   {
     "page": 35,
@@ -1833,7 +1948,8 @@
     "text": "這个禮物有合伊的意。",
     "pronunciation": "Tsit ê lé-bu̍t ū ha̍h i ê ì.",
     "translation": "這個禮物他中意。",
-    "audio": "0301_07_23_35.mp3"
+    "audio": "0301_07_23_35.mp3",
+    "pronunciation_original": "Tsit ê lé-bu̍t ū ha̍h i ê ì."
   },
   {
     "page": 35,
@@ -1842,7 +1958,8 @@
     "text": "物件有夠，免閣買矣。",
     "pronunciation": "Mi̍h-kiānn ū-kàu, bián koh bé--ah.",
     "translation": "物資充足，不必再買了。",
-    "audio": "0301_07_24_35.mp3"
+    "audio": "0301_07_24_35.mp3",
+    "pronunciation_original": "Mi̍h-kiānn ū-kàu, bián koh bé--ah."
   },
   {
     "page": 35,
@@ -1851,7 +1968,8 @@
     "text": "索仔拍結，敨袂開矣。",
     "pronunciation": "Soh-á phah-kat, tháu bē khui--ah.",
     "translation": "繩索打結，解不開了。",
-    "audio": "0301_07_25_35.mp3"
+    "audio": "0301_07_25_35.mp3",
+    "pronunciation_original": "Soh-á phah-kat, tháu bē khui--ah."
   },
   {
     "page": 35,
@@ -1860,7 +1978,8 @@
     "text": "頭前徛一枝電火柱仔。",
     "pronunciation": "Thâu-tsîng khiā tsi̍t ki tiān-hué-thiāu-á.",
     "translation": "前面豎立了一根電線桿。",
-    "audio": "0301_07_26_35.mp3"
+    "audio": "0301_07_26_35.mp3",
+    "pronunciation_original": "Thâu-tsîng khiā tsi̍t ki tiān-hué-thiāu-á."
   },
   {
     "page": 35,
@@ -1869,7 +1988,8 @@
     "text": "你的銀角仔輾落去矣。",
     "pronunciation": "Lí ê gîn-kak-á liàn--lo̍h-khì--ah.",
     "translation": "你的銅板滾下去了。",
-    "audio": "0301_07_27_35.mp3"
+    "audio": "0301_07_27_35.mp3",
+    "pronunciation_original": "Lí ê gîn-kak-á liàn--lo̍h-khì--ah."
   },
   {
     "page": 35,
@@ -1878,7 +1998,8 @@
     "text": "你莫共伊的衫搝牢牢啦！",
     "pronunciation": "Lí mài kā i ê sann khiú-tiâu-tiâu--lah!",
     "translation": "你別把他的衣服抓得緊緊的啦！",
-    "audio": "0301_07_28_35.mp3"
+    "audio": "0301_07_28_35.mp3",
+    "pronunciation_original": "Lí mài kā i ê sann khiú-tiâu-tiâu--lah!"
   },
   {
     "page": 36,
@@ -1887,7 +2008,8 @@
     "text": "這塊布的花草我誠佮意。",
     "pronunciation": "Tsit tè pòo ê hue-tsháu guá tsiânn kah-ì.",
     "translation": "這塊布的花樣我很喜歡。",
-    "audio": "0301_07_29_36.mp3"
+    "audio": "0301_07_29_36.mp3",
+    "pronunciation_original": "Tsit tè pòo ê hue-tsháu guá tsiânn kah-ì."
   },
   {
     "page": 36,
@@ -1896,7 +2018,8 @@
     "text": "有一粒雞胿仔浮佇水面。",
     "pronunciation": "Ū tsi̍t lia̍p ke-kui-á phû tī tsuí-bīn.",
     "translation": "有一顆氣球浮在水面上。",
-    "audio": "0301_07_30_36.mp3"
+    "audio": "0301_07_30_36.mp3",
+    "pronunciation_original": "Ū tsi̍t lia̍p ke-kui-á phû tī tsuí-bīn."
   },
   {
     "page": 36,
@@ -1905,7 +2028,8 @@
     "text": "你的物件落甲滿四界矣。",
     "pronunciation": "Lí ê mi̍h-kiānn lak kah muá-sì-kè--ah.",
     "translation": "你的東西掉得滿地都是。",
-    "audio": "0301_07_31_36.mp3"
+    "audio": "0301_07_31_36.mp3",
+    "pronunciation_original": "Lí ê mi̍h-kiānn lak kah muá-sì-kè--ah."
   },
   {
     "page": 36,
@@ -1914,7 +2038,8 @@
     "text": "隨人的物件，隨人做記號。",
     "pronunciation": "Suî lâng ê mi̍h-kiānn, suî lâng tsò kì-hō.",
     "translation": "自己的東西，自己做記號。",
-    "audio": "0301_07_32_36.mp3"
+    "audio": "0301_07_32_36.mp3",
+    "pronunciation_original": "Suî lâng ê mi̍h-kiānn, suî lâng tsò kì-hō."
   },
   {
     "page": 36,
@@ -1923,7 +2048,8 @@
     "text": "物件原在囥佇遐，攏無徙位。",
     "pronunciation": "Mi̍h-kiānn guân-tsāi khǹg tī hia, lóng bô suá-uī.",
     "translation": "東西仍舊放在那裡，都沒移動",
-    "audio": "0301_07_33_36.mp3"
+    "audio": "0301_07_33_36.mp3",
+    "pronunciation_original": "Mi̍h-kiānn guân-tsāi khǹg tī hia, lóng bô suá-uī."
   },
   {
     "page": 36,
@@ -1932,7 +2058,8 @@
     "text": "椅仔排無好勢，看起來真亂。",
     "pronunciation": "Í-á pâi bô hó-sè, khuànn--khí-lâi tsin luān.",
     "translation": "椅子沒排好，看起來很亂。",
-    "audio": "0301_07_34_36.mp3"
+    "audio": "0301_07_34_36.mp3",
+    "pronunciation_original": "Í-á pâi bô hó-sè, khuànn--khí-lâi tsin luān."
   },
   {
     "page": 36,
@@ -1941,7 +2068,8 @@
     "text": "這項物件我感覺無啥物特別的。",
     "pronunciation": "Tsit hāng mi̍h-kiānn guá kám-kak bô siánn-mih ti̍k-piat--ê.",
     "translation": "這件東西我覺得沒有什麼特別之處。",
-    "audio": "0301_07_35_36.mp3"
+    "audio": "0301_07_35_36.mp3",
+    "pronunciation_original": "Tsit hāng mi̍h-kiānn guá kám-kak bô siánn-mih ti̍k-piat--ê."
   },
   {
     "page": 37,
@@ -1950,7 +2078,8 @@
     "text": "遐傷細位，這跤櫃仔囥袂落去。",
     "pronunciation": "Hia siunn sè-uī, tsit kha kuī-á khǹg bē lo̍h--khì.",
     "translation": "那裡太窄了，這個櫃子放不下去。",
-    "audio": "0301_07_36_37.mp3"
+    "audio": "0301_07_36_37.mp3",
+    "pronunciation_original": "Hia siunn sè-uī, tsit kha kuī-á khǹg bē lo̍h--khì."
   },
   {
     "page": 37,
@@ -1959,7 +2088,8 @@
     "text": "這兩个皮包仔看起來仝款仔仝款。",
     "pronunciation": "Tsit nn̄g ê phuê-pau-á khuànn--khí-lâi kāng-khuán-á-kāng-khuán.",
     "translation": "這兩個皮包看起來一模一樣。",
-    "audio": "0301_07_37_37.mp3"
+    "audio": "0301_07_37_37.mp3",
+    "pronunciation_original": "Tsit nn̄g ê phuê-pau-á khuànn--khí-lâi kāng-khuán-á-kāng-khuán."
   },
   {
     "page": 37,
@@ -1968,7 +2098,8 @@
     "text": "聽候鼎熱的時，愛趕緊下油落去。",
     "pronunciation": "Thìng-hāu tiánn jia̍t ê sî, ài kuánn-kín hē iû lo̍h--khì.",
     "translation": "等到鍋子的溫度夠熱了之後，就必須趕快把油放下去。",
-    "audio": "0301_07_38_37.mp3"
+    "audio": "0301_07_38_37.mp3",
+    "pronunciation_original": "Thìng-hāu tiánn jia̍t ê sî, ài kuánn-kín hē iû lo̍h--khì."
   },
   {
     "page": 37,
@@ -1977,7 +2108,8 @@
     "text": "冰箱害去矣。",
     "pronunciation": "Ping-siunn hāi--khì--ah.",
     "translation": "冰箱壞掉了。",
-    "audio": "0301_07_39_37.mp3"
+    "audio": "0301_07_39_37.mp3",
+    "pronunciation_original": "Ping-siunn hāi--khì--ah."
   },
   {
     "page": 38,
@@ -2103,7 +2235,8 @@
     "text": "這間電影院的設備真周全。",
     "pronunciation": "Tsit king tiān-iánn-īnn ê siat-pī tsin tsiu-tsuân.",
     "translation": "這間電影院的設備很完善。",
-    "audio": "0301_08_14_39.mp3"
+    "audio": "0301_08_14_39.mp3",
+    "pronunciation_original": "Tsit king tiān-iánn-īnn ê siat-pī tsin tsiu-tsuân."
   },
   {
     "page": 40,
@@ -2112,7 +2245,8 @@
     "text": "逐个佇遐排隊，是為著欲買票。",
     "pronunciation": "Ta̍k ê tī hia pâi-tuī, sī uī-tio̍h beh bé phiò.",
     "translation": "每個人在那裡排隊，是為了要買票。",
-    "audio": "0301_08_15_40.mp3"
+    "audio": "0301_08_15_40.mp3",
+    "pronunciation_original": "Ta̍k ê tī hia pâi-tuī, sī uī-tio̍h beh bé phiò."
   },
   {
     "page": 40,
@@ -2121,7 +2255,8 @@
     "text": "伊差一點仔就著獎矣，有夠無彩。",
     "pronunciation": "I tsha tsi̍t-tiám-á tō tio̍h-tsióng--ah, ū-kàu bô-tshái.",
     "translation": "他差一點就中獎了，實在可惜。",
-    "audio": "0301_08_16_40.mp3"
+    "audio": "0301_08_16_40.mp3",
+    "pronunciation_original": "I tsha tsi̍t-tiám-á tō tio̍h-tsióng--ah, ū-kàu bô-tshái."
   },
   {
     "page": 40,
@@ -2130,7 +2265,8 @@
     "text": "這款貴參參的物件你也買會落去！",
     "pronunciation": "Tsit khuán kuì-som-som ê mi̍h-kiānn lí iā bé ē lo̍h--khì!",
     "translation": "這種這麼昂貴的東西你也買得下手！",
-    "audio": "0301_08_17_40.mp3"
+    "audio": "0301_08_17_40.mp3",
+    "pronunciation_original": "Tsit khuán kuì-som-som ê mi̍h-kiānn lí iā bé ē lo̍h--khì!"
   },
   {
     "page": 40,
@@ -2139,7 +2275,8 @@
     "text": "日月潭的景色袂䆀，有閒咱來去行行咧。",
     "pronunciation": "Ji̍t-gua̍t-thâm ê kíng-sik bē-bái, ū-îng lán lâi-khì kiânn-kiânn--leh.",
     "translation": "日月潭的風景不錯，有空我們去走一走。",
-    "audio": "0301_08_18_40.mp3"
+    "audio": "0301_08_18_40.mp3",
+    "pronunciation_original": "Ji̍t-gua̍t-thâm ê kíng-sik bē-bái, ū-îng lán lâi-khì kiânn-kiânn--leh."
   },
   {
     "page": 41,
@@ -2265,7 +2402,8 @@
     "text": "伊佇生理場誠有名。",
     "pronunciation": "I tī sing-lí-tiûnn tsiânn ū-miâ.",
     "translation": "他在商場上很有名氣。",
-    "audio": "0301_09_14_42.mp3"
+    "audio": "0301_09_14_42.mp3",
+    "pronunciation_original": "I tī sing-lí-tiûnn tsiânn ū-miâ."
   },
   {
     "page": 43,
@@ -2274,7 +2412,8 @@
     "text": "憲兵行路真有精神。",
     "pronunciation": "Hiàn-ping kiânn-lōo tsin ū tsing-sîn.",
     "translation": "憲兵走路很有精神。",
-    "audio": "0301_09_15_43.mp3"
+    "audio": "0301_09_15_43.mp3",
+    "pronunciation_original": "Hiàn-ping kiânn-lōo tsin ū tsing-sîn."
   },
   {
     "page": 43,
@@ -2283,7 +2422,8 @@
     "text": "阮阿媽提豆粕去飼豬。",
     "pronunciation": "Guán a-má the̍h tāu-phoh khì tshī ti.",
     "translation": "我祖母拿了榨油後剩下的豆渣去餵豬。",
-    "audio": "0301_09_16_43.mp3"
+    "audio": "0301_09_16_43.mp3",
+    "pronunciation_original": "Guán a-má the̍h tāu-phoh khì tshī ti."
   },
   {
     "page": 43,
@@ -2292,7 +2432,8 @@
     "text": "伊是咧拍拳賣膏藥的。",
     "pronunciation": "I sī teh phah-kûn bē koo-io̍h--ê.",
     "translation": "他是打拳賣藥的人。",
-    "audio": "0301_09_17_43.mp3"
+    "audio": "0301_09_17_43.mp3",
+    "pronunciation_original": "I sī teh phah-kûn bē koo-io̍h--ê."
   },
   {
     "page": 43,
@@ -2301,7 +2442,8 @@
     "text": "你這間厝設計了真媠。",
     "pronunciation": "Lí tsit king tshù siat-kè liáu tsin suí.",
     "translation": "你這間房子設計得真美。",
-    "audio": "0301_09_18_43.mp3"
+    "audio": "0301_09_18_43.mp3",
+    "pronunciation_original": "Lí tsit king tshù siat-kè liáu tsin suí."
   },
   {
     "page": 43,
@@ -2310,7 +2452,8 @@
     "text": "你這馬咧做啥物穡頭？",
     "pronunciation": "Lí tsit-má teh tsò siánn-mih sit-thâu?",
     "translation": "你現在在做什麼工作？",
-    "audio": "0301_09_19_43.mp3"
+    "audio": "0301_09_19_43.mp3",
+    "pronunciation_original": "Lí tsit-má teh tsò siánn-mih sit-thâu?"
   },
   {
     "page": 43,
@@ -2319,7 +2462,8 @@
     "text": "伊較早是真出名的明星。",
     "pronunciation": "I khah-tsá sī tsin tshut-miâ ê bîng-tshenn.",
     "translation": "他以前是很有名的明星。",
-    "audio": "0301_09_20_43.mp3"
+    "audio": "0301_09_20_43.mp3",
+    "pronunciation_original": "I khah-tsá sī tsin tshut-miâ ê bîng-tshenn."
   },
   {
     "page": 43,
@@ -2328,7 +2472,8 @@
     "text": "𪜶阿三仔是咧做廚子的。",
     "pronunciation": "In A-sam--á sī teh tsò tôo-tsí--ê.",
     "translation": "他們阿三是廚師。",
-    "audio": "0301_09_21_43.mp3"
+    "audio": "0301_09_21_43.mp3",
+    "pronunciation_original": "In A-sam--á sī teh tsò tôo-tsí--ê."
   },
   {
     "page": 44,
@@ -2337,7 +2482,8 @@
     "text": "你是教佗一科的？我教物理。",
     "pronunciation": "Lí sī kà tó tsi̍t kho--ê? Guá kà bu̍t-lí.",
     "translation": "你是教哪一科的？我教物理。",
-    "audio": "0301_09_22_44.mp3"
+    "audio": "0301_09_22_44.mp3",
+    "pronunciation_original": "Lí sī kà tó tsi̍t kho--ê? Guá kà bu̍t-lí."
   },
   {
     "page": 44,
@@ -2346,7 +2492,8 @@
     "text": "你生理欲做，衛生嘛愛講究。",
     "pronunciation": "Lí sing-lí beh tsò, uē-sing mā ài káng-kiù.",
     "translation": "你生意要做，衛生也得講究。",
-    "audio": "0301_09_23_44.mp3"
+    "audio": "0301_09_23_44.mp3",
+    "pronunciation_original": "Lí sing-lí beh tsò, uē-sing mā ài káng-kiù."
   },
   {
     "page": 44,
@@ -2355,7 +2502,8 @@
     "text": "𪜶規家伙仔靠拋網掠魚過日子。",
     "pronunciation": "In kui-ke-hué-á khò pha bāng lia̍h hî kuè ji̍t-tsí.",
     "translation": "他們一家人靠撒網捕魚過日子。",
-    "audio": "0301_09_24_44.mp3"
+    "audio": "0301_09_24_44.mp3",
+    "pronunciation_original": "In kui-ke-hué-á khò pha bāng lia̍h hî kuè ji̍t-tsí."
   },
   {
     "page": 44,
@@ -2364,7 +2512,8 @@
     "text": "作穡人攏愛靠天公伯仔，才有通食穿。",
     "pronunciation": "Tsoh-sit-lâng lóng ài khò thinn-kong-peh--á, tsiah ū thang tsia̍h-tshīng.",
     "translation": "務農的人都要靠老天爺，才有得吃穿。",
-    "audio": "0301_09_25_44.mp3"
+    "audio": "0301_09_25_44.mp3",
+    "pronunciation_original": "Tsoh-sit-lâng lóng ài khò thinn-kong-peh--á, tsiah ū thang tsia̍h-tshīng."
   },
   {
     "page": 44,
@@ -2373,7 +2522,8 @@
     "text": "用心拍拚做生理，久來就會趁大錢。",
     "pronunciation": "Iōng-sim phah-piànn tsò-sing-lí, kú--lâi tō ē thàn tuā tsînn.",
     "translation": "用心努力做生意，時間久了就會賺大錢。",
-    "audio": "0301_09_26_44.mp3"
+    "audio": "0301_09_26_44.mp3",
+    "pronunciation_original": "Iōng-sim phah-piànn tsò-sing-lí, kú--lâi tō ē thàn tuā tsînn."
   },
   {
     "page": 45,
@@ -2499,7 +2649,8 @@
     "text": "規領衫皺襞襞。",
     "pronunciation": "Kui niá sann jiâu-phé-phé.",
     "translation": "整件衣服皺巴巴的。",
-    "audio": "0301_10_14_46.mp3"
+    "audio": "0301_10_14_46.mp3",
+    "pronunciation_original": "Kui niá sann jiâu-phé-phé."
   },
   {
     "page": 47,
@@ -2508,7 +2659,8 @@
     "text": "伊是一个大美人。",
     "pronunciation": "I sī tsi̍t ê tuā bí-jîn.",
     "translation": "她是一個大美人。",
-    "audio": "0301_10_15_47.mp3"
+    "audio": "0301_10_15_47.mp3",
+    "pronunciation_original": "I sī tsi̍t ê tuā bí-jîn."
   },
   {
     "page": 47,
@@ -2517,7 +2669,8 @@
     "text": "有穿內衫較會欶汗。",
     "pronunciation": "Ū tshīng lāi-sann khah ē suh-kuānn.",
     "translation": "穿內衣比較吸汗。",
-    "audio": "0301_10_16_47.mp3"
+    "audio": "0301_10_16_47.mp3",
+    "pronunciation_original": "Ū tshīng lāi-sann khah ē suh-kuānn."
   },
   {
     "page": 47,
@@ -2526,7 +2679,8 @@
     "text": "阮先生生做真緣投。",
     "pronunciation": "Guán sian-sinn senn-tsò tsin iân-tâu.",
     "translation": "我們的老師長得很帥。",
-    "audio": "0301_10_17_47.mp3"
+    "audio": "0301_10_17_47.mp3",
+    "pronunciation_original": "Guán sian-sinn senn-tsò tsin iân-tâu."
   },
   {
     "page": 47,
@@ -2535,7 +2689,8 @@
     "text": "這領衫穿起來傷縛。",
     "pronunciation": "Tsit niá sann tshīng--khí-lâi siunn pa̍k.",
     "translation": "這件衣服穿起來太緊了。",
-    "audio": "0301_10_18_47.mp3"
+    "audio": "0301_10_18_47.mp3",
+    "pronunciation_original": "Tsit niá sann tshīng--khí-lâi siunn pa̍k."
   },
   {
     "page": 47,
@@ -2544,7 +2699,8 @@
     "text": "你看起來是遮爾仔媠。",
     "pronunciation": "Lí khuànn--khí-lâi sī tsiah-nī-á suí.",
     "translation": "妳看起來是這麼的漂亮。",
-    "audio": "0301_10_19_47.mp3"
+    "audio": "0301_10_19_47.mp3",
+    "pronunciation_original": "Lí khuànn--khí-lâi sī tsiah-nī-á suí."
   },
   {
     "page": 47,
@@ -2553,7 +2709,8 @@
     "text": "我這領衫的內裡破去矣。",
     "pronunciation": "Guá tsit niá sann ê lāi-lí phuà--khì--ah.",
     "translation": "我這件衣服的內裡破掉了。",
-    "audio": "0301_10_20_47.mp3"
+    "audio": "0301_10_20_47.mp3",
+    "pronunciation_original": "Guá tsit niá sann ê lāi-lí phuà--khì--ah."
   },
   {
     "page": 47,
@@ -2562,7 +2719,8 @@
     "text": "這領衫的線路車了有媠。",
     "pronunciation": "Tsit niá sann ê suànn-lōo tshia liáu ū suí.",
     "translation": "這件衣服的線條車得很漂亮。",
-    "audio": "0301_10_21_47.mp3"
+    "audio": "0301_10_21_47.mp3",
+    "pronunciation_original": "Tsit niá sann ê suànn-lōo tshia liáu ū suí."
   },
   {
     "page": 48,
@@ -2571,7 +2729,8 @@
     "text": "褲跤放放咧，褲才袂傷短。",
     "pronunciation": "Khòo-kha pàng-pàng--leh, khòo tsiah bē siunn té.",
     "translation": "褲管口放一放，這樣褲子才不會太短。",
-    "audio": "0301_10_22_48.mp3"
+    "audio": "0301_10_22_48.mp3",
+    "pronunciation_original": "Khòo-kha pàng-pàng--leh, khòo tsiah bē siunn té."
   },
   {
     "page": 48,
@@ -2580,7 +2739,8 @@
     "text": "天氣遮寒，你哪會閣穿短䘼的？",
     "pronunciation": "Thinn-khì tsiah kuânn, lí ná ē koh tshīng té-ńg--ê?",
     "translation": "天氣這麼冷，你怎麼還穿短袖？",
-    "audio": "0301_10_23_48.mp3"
+    "audio": "0301_10_23_48.mp3",
+    "pronunciation_original": "Thinn-khì tsiah kuânn, lí ná ē koh tshīng té-ńg--ê?"
   },
   {
     "page": 48,
@@ -2589,7 +2749,8 @@
     "text": "伊真有孝。",
     "pronunciation": "I tsin iú-hàu.",
     "translation": "他很孝順。",
-    "audio": "0301_10_24_48.mp3"
+    "audio": "0301_10_24_48.mp3",
+    "pronunciation_original": "I tsin iú-hàu."
   },
   {
     "page": 48,
@@ -2598,7 +2759,8 @@
     "text": "伊真好鬥陣。",
     "pronunciation": "I tsin hó tàu-tīn.",
     "translation": "他很好相處。",
-    "audio": "0301_10_25_48.mp3"
+    "audio": "0301_10_25_48.mp3",
+    "pronunciation_original": "I tsin hó tàu-tīn."
   },
   {
     "page": 48,
@@ -2607,7 +2769,8 @@
     "text": "你毋通害人。",
     "pronunciation": "Lí m̄-thang hāi--lâng.",
     "translation": "你不要害人。",
-    "audio": "0301_10_26_48.mp3"
+    "audio": "0301_10_26_48.mp3",
+    "pronunciation_original": "Lí m̄-thang hāi--lâng."
   },
   {
     "page": 48,
@@ -2616,7 +2779,8 @@
     "text": "伊的成績袂䆀。",
     "pronunciation": "I ê sîng-tsik bē-bái.",
     "translation": "他的成績不錯。",
-    "audio": "0301_10_27_48.mp3"
+    "audio": "0301_10_27_48.mp3",
+    "pronunciation_original": "I ê sîng-tsik bē-bái."
   },
   {
     "page": 48,
@@ -2625,7 +2789,8 @@
     "text": "伊看起來真落魄。",
     "pronunciation": "I khuànn--khí-lâi tsin lo̍k-phik.",
     "translation": "他看起來很失意。",
-    "audio": "0301_10_28_48.mp3"
+    "audio": "0301_10_28_48.mp3",
+    "pronunciation_original": "I khuànn--khí-lâi tsin lo̍k-phik."
   },
   {
     "page": 49,
@@ -2634,7 +2799,8 @@
     "text": "這个頭家猶真少年。",
     "pronunciation": "Tsit ê thâu-ke iáu tsin siàu-liân.",
     "translation": "這個老闆還很年輕。",
-    "audio": "0301_10_29_49.mp3"
+    "audio": "0301_10_29_49.mp3",
+    "pronunciation_original": "Tsit ê thâu-ke iáu tsin siàu-liân."
   },
   {
     "page": 49,
@@ -2643,7 +2809,8 @@
     "text": "逐家對伊的印象真好。",
     "pronunciation": "Ta̍k-ke tuì i ê ìn-siōng tsin hó.",
     "translation": "大家對他的印象很好。",
-    "audio": "0301_10_30_49.mp3"
+    "audio": "0301_10_30_49.mp3",
+    "pronunciation_original": "Ta̍k-ke tuì i ê ìn-siōng tsin hó."
   },
   {
     "page": 49,
@@ -2652,7 +2819,8 @@
     "text": "伊的孝心予人真感動。",
     "pronunciation": "I ê hàu-sim hōo lâng tsin kám-tōng.",
     "translation": "他的孝心讓人很感動。",
-    "audio": "0301_10_31_49.mp3"
+    "audio": "0301_10_31_49.mp3",
+    "pronunciation_original": "I ê hàu-sim hōo lâng tsin kám-tōng."
   },
   {
     "page": 49,
@@ -2661,7 +2829,8 @@
     "text": "伊是一个真樂觀的人。",
     "pronunciation": "I sī tsi̍t ê tsin lo̍k-kuan ê lâng.",
     "translation": "他是一個很樂觀的人。",
-    "audio": "0301_10_32_49.mp3"
+    "audio": "0301_10_32_49.mp3",
+    "pronunciation_original": "I sī tsi̍t ê tsin lo̍k-kuan ê lâng."
   },
   {
     "page": 49,
@@ -2670,7 +2839,8 @@
     "text": "伊咧騙你，你毋通中計。",
     "pronunciation": "I teh phiàn--lí, lí m̄-thang tiòng-kè.",
     "translation": "他在騙你，你不要落入圈套。",
-    "audio": "0301_10_33_49.mp3"
+    "audio": "0301_10_33_49.mp3",
+    "pronunciation_original": "I teh phiàn--lí, lí m̄-thang tiòng-kè."
   },
   {
     "page": 49,
@@ -2679,7 +2849,8 @@
     "text": "伊講過的話，一定會記得。",
     "pronunciation": "I kóng--kuè ê uē, it-tīng ē-kì--tit.",
     "translation": "他說過的話一定會記得。",
-    "audio": "0301_10_34_49.mp3"
+    "audio": "0301_10_34_49.mp3",
+    "pronunciation_original": "I kóng--kuè ê uē, it-tīng ē-kì--tit."
   },
   {
     "page": 49,
@@ -2688,7 +2859,8 @@
     "text": "伊做代誌認真，風評袂䆀。",
     "pronunciation": "I tsò tāi-tsì jīn-tsin, hong-phîng bē-bái.",
     "translation": "他做事認真，頗獲好評。",
-    "audio": "0301_10_35_49.mp3"
+    "audio": "0301_10_35_49.mp3",
+    "pronunciation_original": "I tsò tāi-tsì jīn-tsin, hong-phîng bē-bái."
   },
   {
     "page": 50,
@@ -2697,7 +2869,8 @@
     "text": "你哪會食甲規个面花巴哩貓？",
     "pronunciation": "Lí ná ē tsia̍h kah kui ê bīn hue-pa-li-niau?",
     "translation": "你怎麼吃得滿臉都是？",
-    "audio": "0301_10_36_50.mp3"
+    "audio": "0301_10_36_50.mp3",
+    "pronunciation_original": "Lí ná ē tsia̍h kah kui ê bīn hue-pa-li-niau?"
   },
   {
     "page": 50,
@@ -2706,7 +2879,8 @@
     "text": "伊做無三月日就予人辭頭路。",
     "pronunciation": "I tsò bô sann gue̍h-ji̍t tō hōo lâng sî-thâu-lōo.",
     "translation": "他做不到三個月就被人開除。",
-    "audio": "0301_10_37_50.mp3"
+    "audio": "0301_10_37_50.mp3",
+    "pronunciation_original": "I tsò bô sann gue̍h-ji̍t tō hōo lâng sî-thâu-lōo."
   },
   {
     "page": 50,
@@ -2715,7 +2889,8 @@
     "text": "做人若知足，日子就會較好過。",
     "pronunciation": "Tsò-lâng nā ti-tsiok, ji̍t-tsí tō ē khah hó kuè.",
     "translation": "做人如果能夠知足，日子就會比較好過。",
-    "audio": "0301_10_38_50.mp3"
+    "audio": "0301_10_38_50.mp3",
+    "pronunciation_original": "Tsò-lâng nā ti-tsiok, ji̍t-tsí tō ē khah hó kuè."
   },
   {
     "page": 50,
@@ -2724,7 +2899,8 @@
     "text": "𪜶兩个是雙生仔，毋才生做一模一樣。",
     "pronunciation": "In nn̄g ê sī siang-senn-á, m̄-tsiah senn-tsò it-bôo-it-iūnn.",
     "translation": "他們兩個是雙胞胎，才會長得一模一樣。",
-    "audio": "0301_10_39_50.mp3"
+    "audio": "0301_10_39_50.mp3",
+    "pronunciation_original": "In nn̄g ê sī siang-senn-á, m̄-tsiah senn-tsò it-bôo-it-iūnn."
   },
   {
     "page": 50,
@@ -2733,7 +2909,8 @@
     "text": "彼个貧惰骨，日頭曝尻川矣閣毋起來。",
     "pronunciation": "Hit ê pîn-tuānn-kut, ji̍t-thâu pha̍k kha-tshng--ah koh m̄ khí--lâi.",
     "translation": "那個懶惰蟲，太陽曬屁股了還不起床。",
-    "audio": "0301_10_40_50.mp3"
+    "audio": "0301_10_40_50.mp3",
+    "pronunciation_original": "Hit ê pîn-tuānn-kut, ji̍t-thâu pha̍k kha-tshng--ah koh m̄ khí--lâi."
   },
   {
     "page": 51,
@@ -2859,7 +3036,8 @@
     "text": "我無膽，毋敢去。",
     "pronunciation": "Guá bô-tánn, m̄-kánn khì.",
     "translation": "我沒膽量，不敢去。",
-    "audio": "0301_11_14_52.mp3"
+    "audio": "0301_11_14_52.mp3",
+    "pronunciation_original": "Guá bô-tánn, m̄-kánn khì."
   },
   {
     "page": 53,
@@ -2868,7 +3046,8 @@
     "text": "你想的比我較周至。",
     "pronunciation": "Lí siūnn--ê pí guá khah tsiu-tsì.",
     "translation": "你想得比我還周到。",
-    "audio": "0301_11_15_53.mp3"
+    "audio": "0301_11_15_53.mp3",
+    "pronunciation_original": "Lí siūnn--ê pí guá khah tsiu-tsì."
   },
   {
     "page": 53,
@@ -2877,7 +3056,8 @@
     "text": "的確的代誌才通講。",
     "pronunciation": "Tik-khak ê tāi-tsì tsiah thang kóng.",
     "translation": "確定的事情才可以說。",
-    "audio": "0301_11_16_53.mp3"
+    "audio": "0301_11_16_53.mp3",
+    "pronunciation_original": "Tik-khak ê tāi-tsì tsiah thang kóng."
   },
   {
     "page": 53,
@@ -2886,7 +3066,8 @@
     "text": "早若知我就毋來矣。",
     "pronunciation": "Tsá nā tsai guá tō m̄ lâi--ah.",
     "translation": "早知道我就不來了。",
-    "audio": "0301_11_17_53.mp3"
+    "audio": "0301_11_17_53.mp3",
+    "pronunciation_original": "Tsá nā tsai guá tō m̄ lâi--ah."
   },
   {
     "page": 53,
@@ -2895,7 +3076,8 @@
     "text": "毋知伊到底咧想啥。",
     "pronunciation": "M̄-tsai i tàu-té teh siūnn siánn .",
     "translation": "不知道他到底在想什麼。",
-    "audio": "0301_11_18_53.mp3"
+    "audio": "0301_11_18_53.mp3",
+    "pronunciation_original": "M̄-tsai i tàu-té teh siūnn siánn ."
   },
   {
     "page": 53,
@@ -2904,7 +3086,8 @@
     "text": "想予斟酌才做決定。",
     "pronunciation": "Siūnn hōo tsim-tsiok tsiah tsò kuat-tīng.",
     "translation": "想清楚再做決定。",
-    "audio": "0301_11_19_53.mp3"
+    "audio": "0301_11_19_53.mp3",
+    "pronunciation_original": "Siūnn hōo tsim-tsiok tsiah tsò kuat-tīng."
   },
   {
     "page": 53,
@@ -2913,7 +3096,8 @@
     "text": "萬項代著愛照步來。",
     "pronunciation": "Bān-hāng tāi tio̍h-ài tsiàu-pōo-lâi.",
     "translation": "一切事項應該要按部就班地處理。",
-    "audio": "0301_11_20_53.mp3"
+    "audio": "0301_11_20_53.mp3",
+    "pronunciation_original": "Bān-hāng tāi tio̍h-ài tsiàu-pōo-lâi."
   },
   {
     "page": 53,
@@ -2922,7 +3106,8 @@
     "text": "少年人愛較有志氣咧。",
     "pronunciation": "Siàu-liân-lâng ài khah ū tsì-khì--leh.",
     "translation": "年輕人要有志氣一點。",
-    "audio": "0301_11_21_53.mp3"
+    "audio": "0301_11_21_53.mp3",
+    "pronunciation_original": "Siàu-liân-lâng ài khah ū tsì-khì--leh."
   },
   {
     "page": 54,
@@ -2931,7 +3116,8 @@
     "text": "這項代誌我嘛無法度。",
     "pronunciation": "Tsit hāng tāi-tsì guá mā bô huat-tōo.",
     "translation": "這件事我也沒有辦法。",
-    "audio": "0301_11_22_54.mp3"
+    "audio": "0301_11_22_54.mp3",
+    "pronunciation_original": "Tsit hāng tāi-tsì guá mā bô huat-tōo."
   },
   {
     "page": 54,
@@ -2940,7 +3126,8 @@
     "text": "莫佇後壁講人的歹話。",
     "pronunciation": "Mài tī āu-piah kóng lâng ê pháinn-uē.",
     "translation": "不要在背後說人家的壞話。",
-    "audio": "0301_11_23_54.mp3"
+    "audio": "0301_11_23_54.mp3",
+    "pronunciation_original": "Mài tī āu-piah kóng lâng ê pháinn-uē."
   },
   {
     "page": 54,
@@ -2949,7 +3136,8 @@
     "text": "這件代誌你莫捒予我。",
     "pronunciation": "Tsit kiānn tāi-tsì lí mài sak hōo--guá.",
     "translation": "這件事情你不要推拖給我。",
-    "audio": "0301_11_24_54.mp3"
+    "audio": "0301_11_24_54.mp3",
+    "pronunciation_original": "Tsit kiānn tāi-tsì lí mài sak hōo--guá."
   },
   {
     "page": 54,
@@ -2958,7 +3146,8 @@
     "text": "我想欲親身共你說謝。",
     "pronunciation": "Guá siūnn-beh tshin-sin kā lí sueh-siā.",
     "translation": "我想親自向你道謝。",
-    "audio": "0301_11_25_54.mp3"
+    "audio": "0301_11_25_54.mp3",
+    "pronunciation_original": "Guá siūnn-beh tshin-sin kā lí sueh-siā."
   },
   {
     "page": 54,
@@ -2967,7 +3156,8 @@
     "text": "先規劃予好，才來執行。",
     "pronunciation": "Sing kui-uē hōo hó, tsiah lâi tsip-hîng.",
     "translation": "先規劃好，再來執行。",
-    "audio": "0301_11_26_54.mp3"
+    "audio": "0301_11_26_54.mp3",
+    "pronunciation_original": "Sing kui-uē hōo hó, tsiah lâi tsip-hîng."
   },
   {
     "page": 54,
@@ -2976,7 +3166,8 @@
     "text": "咱做代誌就愛較頂真咧！",
     "pronunciation": "Lán tsò tāi-tsì tō ài khah tíng-tsin--leh!",
     "translation": "我們做事情要多認真細心點！",
-    "audio": "0301_11_27_54.mp3"
+    "audio": "0301_11_27_54.mp3",
+    "pronunciation_original": "Lán tsò tāi-tsì tō ài khah tíng-tsin--leh!"
   },
   {
     "page": 54,
@@ -2985,7 +3176,8 @@
     "text": "伊是來亂的，咱莫管伊。",
     "pronunciation": "I sī lâi luān--ê, lán mài kuán--i.",
     "translation": "他是來搗蛋的，我們別管他。",
-    "audio": "0301_11_28_54.mp3"
+    "audio": "0301_11_28_54.mp3",
+    "pronunciation_original": "I sī lâi luān--ê, lán mài kuán--i."
   },
   {
     "page": 55,
@@ -2994,7 +3186,8 @@
     "text": "咱愛認真拍拚，才會有出脫。",
     "pronunciation": "Lán ài jīn-tsin phah-piànn, tsiah ē ū tshut-thuat.",
     "translation": "我們要認真努力，才會有出息。",
-    "audio": "0301_11_29_55.mp3"
+    "audio": "0301_11_29_55.mp3",
+    "pronunciation_original": "Lán ài jīn-tsin phah-piànn, tsiah ē ū tshut-thuat."
   },
   {
     "page": 55,
@@ -3003,7 +3196,8 @@
     "text": "總有一工，我一定會成功。",
     "pronunciation": "Tsóng-ū tsi̍t kang, guá it-tīng ē sîng-kong.",
     "translation": "總有一天，我一定會成功。",
-    "audio": "0301_11_30_55.mp3"
+    "audio": "0301_11_30_55.mp3",
+    "pronunciation_original": "Tsóng-ū tsi̍t kang, guá it-tīng ē sîng-kong."
   },
   {
     "page": 55,
@@ -3012,7 +3206,8 @@
     "text": "伊真有風度，共對頭恭喜。",
     "pronunciation": "I tsin ū hong-tōo, kā tuì-thâu kiong-hí.",
     "translation": "他很有風度，向對手道賀。",
-    "audio": "0301_11_31_55.mp3"
+    "audio": "0301_11_31_55.mp3",
+    "pronunciation_original": "I tsin ū hong-tōo, kā tuì-thâu kiong-hí."
   },
   {
     "page": 55,
@@ -3021,7 +3216,8 @@
     "text": "細漢囡仔暗時難免會泄尿。",
     "pronunciation": "Sè-hàn gín-á àm-sî lân-bián ē tshuā-jiō.",
     "translation": "小孩子晚上難免會尿床。",
-    "audio": "0301_11_32_55.mp3"
+    "audio": "0301_11_32_55.mp3",
+    "pronunciation_original": "Sè-hàn gín-á àm-sî lân-bián ē tshuā-jiō."
   },
   {
     "page": 55,
@@ -3030,7 +3226,8 @@
     "text": "你莫烏白唬，我無遐好騙。",
     "pronunciation": "Lí mài oo-pe̍h hóo, guá bô hiah hó phiàn.",
     "translation": "你別亂唬人，我沒這麼好騙。",
-    "audio": "0301_11_33_55.mp3"
+    "audio": "0301_11_33_55.mp3",
+    "pronunciation_original": "Lí mài oo-pe̍h hóo, guá bô hiah hó phiàn."
   },
   {
     "page": 55,
@@ -3039,7 +3236,8 @@
     "text": "若是肯奮鬥，一定會出頭。",
     "pronunciation": "Nā-sī khíng hùn-tàu, it-tīng ē tshut-thâu.",
     "translation": "如果肯奮鬥，一定會出頭。",
-    "audio": "0301_11_34_55.mp3"
+    "audio": "0301_11_34_55.mp3",
+    "pronunciation_original": "Nā-sī khíng hùn-tàu, it-tīng ē tshut-thâu."
   },
   {
     "page": 55,
@@ -3048,7 +3246,8 @@
     "text": "這件代誌欲按怎做據在你。",
     "pronunciation": "Tsit kiānn tāi-tsì beh án-tsuánn tsò kì-tsāi--lí.",
     "translation": "這件事情要怎樣處理任由你決定。",
-    "audio": "0301_11_35_55.mp3"
+    "audio": "0301_11_35_55.mp3",
+    "pronunciation_original": "Tsit kiānn tāi-tsì beh án-tsuánn tsò kì-tsāi--lí."
   },
   {
     "page": 56,
@@ -3057,7 +3256,8 @@
     "text": "逐个人攏誠佮意古錐的動物。",
     "pronunciation": "Ta̍k ê lâng lóng tsiânn kah-ì kóo-tsui ê tōng-bu̍t.",
     "translation": "每個人都很喜歡可愛的動物。",
-    "audio": "0301_11_36_56.mp3"
+    "audio": "0301_11_36_56.mp3",
+    "pronunciation_original": "Ta̍k ê lâng lóng tsiânn kah-ì kóo-tsui ê tōng-bu̍t."
   },
   {
     "page": 56,
@@ -3066,7 +3266,8 @@
     "text": "無定著彼件代誌就是伊做的。",
     "pronunciation": "Bô-tiānn-tio̍h hit kiānn tāi-tsì tō sī i tsò--ê.",
     "translation": "說不定那件事就是他做的。",
-    "audio": "0301_11_37_56.mp3"
+    "audio": "0301_11_37_56.mp3",
+    "pronunciation_original": "Bô-tiānn-tio̍h hit kiānn tāi-tsì tō sī i tsò--ê."
   },
   {
     "page": 56,
@@ -3075,7 +3276,8 @@
     "text": "伊今仔日的表現有淡薄仔失常。",
     "pronunciation": "I kin-á-ji̍t ê piáu-hiān ū tām-po̍h-á sit-siông.",
     "translation": "他今天的表現有點失常。",
-    "audio": "0301_11_38_56.mp3"
+    "audio": "0301_11_38_56.mp3",
+    "pronunciation_original": "I kin-á-ji̍t ê piáu-hiān ū tām-po̍h-á sit-siông."
   },
   {
     "page": 56,
@@ -3084,7 +3286,8 @@
     "text": "伊著第一名了後，變甲足臭屁。",
     "pronunciation": "I tio̍h tē-it miâ liáu-āu, piàn kah tsiok tshàu-phuì.",
     "translation": "他得了第一名後，變得很臭屁。",
-    "audio": "0301_11_39_56.mp3"
+    "audio": "0301_11_39_56.mp3",
+    "pronunciation_original": "I tio̍h tē-it miâ liáu-āu, piàn kah tsiok tshàu-phuì."
   },
   {
     "page": 56,
@@ -3093,7 +3296,8 @@
     "text": "是按怎好好仔人毋做，欲去學歹？",
     "pronunciation": "Sī án-tsuánn hó-hó-á-lâng m̄ tsò, beh khì o̍h pháinn?",
     "translation": "為什麼不好好做個有用的人，要去學做壞事？",
-    "audio": "0301_11_40_56.mp3"
+    "audio": "0301_11_40_56.mp3",
+    "pronunciation_original": "Sī án-tsuánn hó-hó-á-lâng m̄ tsò, beh khì o̍h pháinn?"
   },
   {
     "page": 56,
@@ -3102,7 +3306,8 @@
     "text": "逐家講笑爾爾，你莫遐爾嚴肅啦！",
     "pronunciation": "Ta̍k-ke kóng-tshiò niā-niā, lí mài hiah-nī giâm-siok--lah!",
     "translation": "大家說笑而已，你不要那麼嚴肅啦！",
-    "audio": "0301_11_41_56.mp3"
+    "audio": "0301_11_41_56.mp3",
+    "pronunciation_original": "Ta̍k-ke kóng-tshiò niā-niā, lí mài hiah-nī giâm-siok--lah!"
   },
   {
     "page": 56,
@@ -3111,7 +3316,8 @@
     "text": "伊違反規定，去予主辦單位除名矣。",
     "pronunciation": "I uî-huán kui-tīng, khì hōo tsú-pān tan-uī tû-miâ--ah.",
     "translation": "他違反規定，被主辦單位取消資格了。",
-    "audio": "0301_11_42_56.mp3"
+    "audio": "0301_11_42_56.mp3",
+    "pronunciation_original": "I uî-huán kui-tīng, khì hōo tsú-pān tan-uī tû-miâ--ah."
   },
   {
     "page": 57,
@@ -3120,7 +3326,8 @@
     "text": "阿母氣甲袂講話，干焦直直捶心肝。",
     "pronunciation": "A-bú khì kah bē kóng-uē, kan-na ti̍t-ti̍t tuî sim-kuann.",
     "translation": "媽媽氣得說不出話來，只是一直捶打自已的胸膛。",
-    "audio": "0301_11_43_57.mp3"
+    "audio": "0301_11_43_57.mp3",
+    "pronunciation_original": "A-bú khì kah bē kóng-uē, kan-na ti̍t-ti̍t tuî sim-kuann."
   },
   {
     "page": 57,
@@ -3129,7 +3336,8 @@
     "text": "序細若有孝，序大人就會感覺較安慰。",
     "pronunciation": "Sī-sè nā iú-hàu, sī-tuā-lâng tō ē kám-kak khah an-uì.",
     "translation": "晚輩若懂得孝順，做長輩的也會覺得比較欣慰。",
-    "audio": "0301_11_44_57.mp3"
+    "audio": "0301_11_44_57.mp3",
+    "pronunciation_original": "Sī-sè nā iú-hàu, sī-tuā-lâng tō ē kám-kak khah an-uì."
   },
   {
     "page": 57,
@@ -3138,7 +3346,8 @@
     "text": "明明知影會輸，𪜶猶原堅持到最後。",
     "pronunciation": "Bîng-bîng tsai-iánn ē su, in iu-guân kian-tshî kàu tsuè-āu.",
     "translation": "明明知道會輸，他們仍然堅持到最後。",
-    "audio": "0301_11_45_57.mp3"
+    "audio": "0301_11_45_57.mp3",
+    "pronunciation_original": "Bîng-bîng tsai-iánn ē su, in iu-guân kian-tshî kàu tsuè-āu."
   },
   {
     "page": 57,
@@ -3147,7 +3356,8 @@
     "text": "你莫閣佇遐咧眠夢矣。",
     "pronunciation": "Lí mài koh tī hia teh bîn-bāng--ah.",
     "translation": "你不要在那裡做夢了。",
-    "audio": "0301_11_46_57.mp3"
+    "audio": "0301_11_46_57.mp3",
+    "pronunciation_original": "Lí mài koh tī hia teh bîn-bāng--ah."
   },
   {
     "page": 58,
@@ -3273,7 +3483,8 @@
     "text": "你寒天出門毋穿外套，較加嘛會感冒。",
     "pronunciation": "Lí kuânn-thinn tshut-mn̂g m̄ tshīng guā-thò, khah-ke mā ē kám-mōo.",
     "translation": "你冬天出門不穿外套，難怪會感冒。",
-    "audio": "0301_12_14_59.mp3"
+    "audio": "0301_12_14_59.mp3",
+    "pronunciation_original": "Lí kuânn-thinn tshut-mn̂g m̄ tshīng guā-thò, khah-ke mā ē kám-mōo."
   },
   {
     "page": 60,
@@ -3480,7 +3691,8 @@
     "text": "你袂曉寫的題目就先勾起來。",
     "pronunciation": "Lí bē-hiáu siá ê tê-bo̍k tō sing kau--khí-lâi.",
     "translation": "你不會寫的題目先打勾作記號。",
-    "audio": "0301_14_14_63.mp3"
+    "audio": "0301_14_14_63.mp3",
+    "pronunciation_original": "Lí bē-hiáu siá ê tê-bo̍k tō sing kau--khí-lâi."
   },
   {
     "page": 64,
@@ -3489,7 +3701,8 @@
     "text": "伊誠愛畫圖，所以作品袂少。",
     "pronunciation": "I tsiânn ài uē-tôo, sóo-í tsok-phín bē tsió.",
     "translation": "他很喜歡畫圖，所以作品不少。",
-    "audio": "0301_14_15_64.mp3"
+    "audio": "0301_14_15_64.mp3",
+    "pronunciation_original": "I tsiânn ài uē-tôo, sóo-í tsok-phín bē tsió."
   },
   {
     "page": 64,
@@ -3498,7 +3711,8 @@
     "text": "恁後生今年考著佗一間大學？",
     "pronunciation": "Lín hāu-senn kin-nî khó-tio̍h tó tsi̍t king tāi-ha̍k?",
     "translation": "你兒子今年考上哪一所大學？",
-    "audio": "0301_14_16_64.mp3"
+    "audio": "0301_14_16_64.mp3",
+    "pronunciation_original": "Lín hāu-senn kin-nî khó-tio̍h tó tsi̍t king tāi-ha̍k?"
   },
   {
     "page": 64,
@@ -3507,7 +3721,8 @@
     "text": "阮的圖書館有真濟藝文活動。",
     "pronunciation": "Guán ê tôo-su-kuán ū tsin tsē gē-bûn ua̍h-tāng.",
     "translation": "我們的圖書館有很多藝文活動。",
-    "audio": "0301_14_17_64.mp3"
+    "audio": "0301_14_17_64.mp3",
+    "pronunciation_original": "Guán ê tôo-su-kuán ū tsin tsē gē-bûn ua̍h-tāng."
   },
   {
     "page": 64,
@@ -3516,7 +3731,8 @@
     "text": "你這改的成績有淡薄仔退步。",
     "pronunciation": "Lí tsit-kái ê sîng-tsik ū tām-po̍h-á thè-pōo.",
     "translation": "你這次的成績有點退步。",
-    "audio": "0301_14_18_64.mp3"
+    "audio": "0301_14_18_64.mp3",
+    "pronunciation_original": "Lí tsit-kái ê sîng-tsik ū tām-po̍h-á thè-pōo."
   },
   {
     "page": 64,
@@ -3525,7 +3741,8 @@
     "text": "年底欲到矣，咱愛準備過年矣。",
     "pronunciation": "Nî-té beh kàu--ah, lán ài tsún-pī kuè-nî--ah.",
     "translation": "年終將至，我們要準備過年了。",
-    "audio": "0301_14_19_64.mp3"
+    "audio": "0301_14_19_64.mp3",
+    "pronunciation_original": "Nî-té beh kàu--ah, lán ài tsún-pī kuè-nî--ah."
   },
   {
     "page": 64,
@@ -3534,7 +3751,8 @@
     "text": "伊佇房間溫習功課，莫共伊吵。",
     "pronunciation": "I tī pâng-king un-si̍p kong-khò, mài kā i tshá.",
     "translation": "他在房間複習功課，不要吵他。",
-    "audio": "0301_14_20_64.mp3"
+    "audio": "0301_14_20_64.mp3",
+    "pronunciation_original": "I tī pâng-king un-si̍p kong-khò, mài kā i tshá."
   },
   {
     "page": 64,
@@ -3543,7 +3761,8 @@
     "text": "今仔日的代誌上好莫拖到明仔載。",
     "pronunciation": "Kin-á-ji̍t ê tāi-tsì siōng hó mài thua kàu bîn-á-tsài.",
     "translation": "今天的事情最好不要拖到明天。",
-    "audio": "0301_14_21_64.mp3"
+    "audio": "0301_14_21_64.mp3",
+    "pronunciation_original": "Kin-á-ji̍t ê tāi-tsì siōng hó mài thua kàu bîn-á-tsài."
   },
   {
     "page": 65,
@@ -3552,7 +3771,8 @@
     "text": "這本冊的內容真淺，囡仔人嘛看有。",
     "pronunciation": "Tsit pún tsheh ê luē-iông tsin tshián, gín-á-lâng mā khuànn-ū.",
     "translation": "這本書的內容淺顯易懂，小孩子也看得懂。",
-    "audio": "0301_14_22_65.mp3"
+    "audio": "0301_14_22_65.mp3",
+    "pronunciation_original": "Tsit pún tsheh ê luē-iông tsin tshián, gín-á-lâng mā khuànn-ū."
   },
   {
     "page": 66,
@@ -3750,7 +3970,8 @@
     "text": "我予滾水燙一下膨疱，足疼的。",
     "pronunciation": "Guá hōo kún-tsuí thǹg tsi̍t-ē phòng-phā, tsiok thiànn--ê.",
     "translation": "我被開水燙得起水泡，好痛喔。",
-    "audio": "0301_16_14_69.mp3"
+    "audio": "0301_16_14_69.mp3",
+    "pronunciation_original": "Guá hōo kún-tsuí thǹg tsi̍t-ē phòng-phā, tsiok thiànn--ê."
   },
   {
     "page": 70,
@@ -3759,7 +3980,8 @@
     "text": "昨暗聽伊嗽規暝，我實在真毋甘。",
     "pronunciation": "Tsa-àm thiann i sàu kui mê, guá si̍t-tsāi tsin m̄-kam.",
     "translation": "昨天聽他咳嗽一整夜，我實在很心疼。",
-    "audio": "0301_16_15_70.mp3"
+    "audio": "0301_16_15_70.mp3",
+    "pronunciation_original": "Tsa-àm thiann i sàu kui mê, guá si̍t-tsāi tsin m̄-kam."
   },
   {
     "page": 70,
@@ -3768,7 +3990,8 @@
     "text": "你按呢呿呿嗽，哪會無愛去予先生看？",
     "pronunciation": "Lí án-ne khuh-khuh-sàu, ná ē bô ài khì hōo sian-sinn khuànn?",
     "translation": "你這樣咳個不停，怎麼不去給醫生看？",
-    "audio": "0301_16_16_70.mp3"
+    "audio": "0301_16_16_70.mp3",
+    "pronunciation_original": "Lí án-ne khuh-khuh-sàu, ná ē bô ài khì hōo sian-sinn khuànn?"
   },
   {
     "page": 70,
@@ -3777,6 +4000,7 @@
     "text": "伊騎車跋倒，所以跤頭趺有一个空喙。",
     "pronunciation": "I khiâ tshia pua̍h-tó, sóo-í kha-thâu-u ū tsi̍t ê khang-tshuì.",
     "translation": "他騎車跌倒，所以膝蓋有一個傷口。",
-    "audio": "0301_16_17_70.mp3"
+    "audio": "0301_16_17_70.mp3",
+    "pronunciation_original": "I khiâ tshia pua̍h-tó, sóo-í kha-thâu-u ū tsi̍t ê khang-tshuì."
   }
 ]

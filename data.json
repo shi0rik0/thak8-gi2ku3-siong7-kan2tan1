@@ -4,7 +4,7 @@
     "chapter": "一人際",
     "id": 1,
     "text": "多謝你！",
-    "pronunciation": "to- [sia]- li_!",
+    "pronunciation": "to- [sia]- li-!",
     "translation": "謝謝你！",
     "audio": "0301_01_01_03.mp3"
   },
@@ -22,7 +22,7 @@
     "chapter": "一人際",
     "id": 3,
     "text": "我伨你。",
-    "pronunciation": "gua‾ [thin]- li_.",
+    "pronunciation": "gua‾ [thin]- li-.",
     "translation": "我支持你。",
     "audio": "0301_01_03_03.mp3"
   },
@@ -241,7 +241,7 @@
     "chapter": "一人際",
     "id": 26,
     "text": "阿英仔真好笑神。",
-    "pronunciation": "A-ing--á tsin hó-tshiò-sîn.",
+    "pronunciation": "a- ing_ [a]\\ tsin- ho‾ tshio\\ [sin]/.",
     "translation": "阿英經常面帶笑容，眉開眼笑。",
     "audio": "0301_01_26_06.mp3",
     "pronunciation_original": "A-ing--á tsin hó-tshiò-sîn."
@@ -251,7 +251,7 @@
     "chapter": "一人際",
     "id": 27,
     "text": "咱暫時袂當相見。",
-    "pronunciation": "Lán tsiām-sî bē-tàng sio-kìnn.",
+    "pronunciation": "lan‾ tsiam_ [si]/ be_ tang\\ sio- [kinn]_.",
     "translation": "我們暫時不能見面。",
     "audio": "0301_01_27_06.mp3",
     "pronunciation_original": "Lán tsiām-sî bē-tàng sio-kìnn."
@@ -261,7 +261,7 @@
     "chapter": "一人際",
     "id": 28,
     "text": "做人就愛捌道理。",
-    "pronunciation": "Tsò-lâng tō ài bat tō-lí.",
+    "pronunciation": "tso\\ [lang]/ to_ ai\\ bat‾ to_ [li]\\.",
     "translation": "做人要懂道理。",
     "audio": "0301_01_28_06.mp3",
     "pronunciation_original": "Tsò-lâng tō ài bat tō-lí."
@@ -271,7 +271,7 @@
     "chapter": "一人際",
     "id": 29,
     "text": "伊是一个普通人。",
-    "pronunciation": "I sī tsi̍t ê phóo-thong lâng.",
+    "pronunciation": "i- si_ tsit_ e- phoo‾ thong- [lang]/.",
     "translation": "他是一般人。",
     "audio": "0301_01_29_07.mp3",
     "pronunciation_original": "I sī tsi̍t ê phóo-thong lâng."
@@ -281,7 +281,7 @@
     "chapter": "一人際",
     "id": 30,
     "text": "你按呢講無毋著。",
-    "pronunciation": "Lí án-ne kóng bô m̄-tio̍h.",
+    "pronunciation": "li‾ an‾ [ne]‾ [kong]\\ bo- m_ [tioh]‾.",
     "translation": "你這麼說沒錯。",
     "audio": "0301_01_30_07.mp3",
     "pronunciation_original": "Lí án-ne kóng bô m̄-tio̍h."
@@ -291,7 +291,7 @@
     "chapter": "一人際",
     "id": 31,
     "text": "你猶有啥物代誌？",
-    "pronunciation": "Lí iáu-ū siánn-mih tāi-tsì?",
+    "pronunciation": "li‾ iau‾ u_ siann‾ mih‾ tai_ [tsi]_?",
     "translation": "你還有什麼事情？",
     "audio": "0301_01_31_07.mp3",
     "pronunciation_original": "Lí iáu-ū siánn-mih tāi-tsì?"
@@ -301,7 +301,7 @@
     "chapter": "一人際",
     "id": 32,
     "text": "閣講嘛是無彩工。",
-    "pronunciation": "Koh kóng mā sī bô-tshái-kang.",
+    "pronunciation": "koh‾ [kong]\\ ma_ si_ bo- tshai‾ [kang]‾.",
     "translation": "再說什麼都是白費工夫。",
     "audio": "0301_01_32_07.mp3",
     "pronunciation_original": "Koh kóng mā sī bô-tshái-kang."
@@ -311,7 +311,7 @@
     "chapter": "一人際",
     "id": 33,
     "text": "下早仔伊有來揣你。",
-    "pronunciation": "E-tsái-á i ū lâi tshuē--lí.",
+    "pronunciation": "e- tsai‾ [a]\\ i- u_ lâi [tshue]- li-.",
     "translation": "今天早上他來找你。",
     "audio": "0301_01_33_07.mp3",
     "pronunciation_original": "E-tsái-á i ū lâi tshuē--lí."
@@ -321,7 +321,7 @@
     "chapter": "一人際",
     "id": 34,
     "text": "你講話毋好遐大聲。",
-    "pronunciation": "Lí kóng-uē m̄ hó hiah tuā-siann.",
+    "pronunciation": "li‾ kong‾ [ue]- m_ ho‾ hiah‾ tua_ [siann]‾.",
     "translation": "你講話不要那麼大聲。",
     "audio": "0301_01_34_07.mp3",
     "pronunciation_original": "Lí kóng-uē m̄ hó hiah tuā-siann."
@@ -331,7 +331,7 @@
     "chapter": "一人際",
     "id": 35,
     "text": "兄弟姊妹著愛仝心。",
-    "pronunciation": "Hiann-tī-tsí-muē tio̍h-ài kāng-sim.",
+    "pronunciation": "hiann- ti_ tsi‾ [mue]- tio_ ai\\ kang_ [sim]‾.",
     "translation": "兄弟姊妹一定要同心。",
     "audio": "0301_01_35_07.mp3",
     "pronunciation_original": "Hiann-tī-tsí-muē tio̍h-ài kāng-sim."
@@ -341,7 +341,7 @@
     "chapter": "一人際",
     "id": 36,
     "text": "你來遮有啥物目的？",
-    "pronunciation": "Lí lâi tsia ū siánn-mih bo̍k-tik?",
+    "pronunciation": "li‾ lai- [tsia]‾ u_ siann‾ mih‾ bok_ [tik]‾?",
     "translation": "你來這有什麼目的？",
     "audio": "0301_01_36_07.mp3",
     "pronunciation_original": "Lí lâi tsia ū siánn-mih bo̍k-tik?"

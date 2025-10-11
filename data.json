@@ -923,7 +923,7 @@
     "chapter": "三食物",
     "id": 7,
     "text": "我欲去買雞卵。",
-    "pronunciation": "Guá beh khì bé ke-nn̄g.",
+    "pronunciation": "gua‾ beh‾ khi‾ be‾ ke- [nng]-.",
     "translation": "我要去買雞蛋。",
     "audio": "0301_03_07_16.mp3"
   },
@@ -932,7 +932,7 @@
     "chapter": "三食物",
     "id": 8,
     "text": "伊食菜，無食臊。",
-    "pronunciation": "I tsia̍h-tshài, bô tsia̍h-tsho.",
+    "pronunciation": "i- tsia_ [tshai]_, bo- tsia_ [tsho]‾.",
     "translation": "他吃素，不吃葷。",
     "audio": "0301_03_08_17.mp3"
   },
@@ -941,7 +941,7 @@
     "chapter": "三食物",
     "id": 9,
     "text": "菜煮甲臭火焦去。",
-    "pronunciation": "Tshài tsú kah tshàu-hué-ta--khì.",
+    "pronunciation": "[tshai]_ tsu‾ kah‾ tshau\\ hue‾ [ta]‾ khi_.",
     "translation": "菜燒焦了。",
     "audio": "0301_03_09_17.mp3"
   },
@@ -950,7 +950,7 @@
     "chapter": "三食物",
     "id": 10,
     "text": "遐的果子予你食。",
-    "pronunciation": "Hia-ê kué-tsí hōo lí tsia̍h.",
+    "pronunciation": "[hia]‾ e- kue‾ [tsi]\\ hoo_ li‾ [tsiah]‾.",
     "translation": "那些水果給你吃。",
     "audio": "0301_03_10_17.mp3"
   },
@@ -959,7 +959,7 @@
     "chapter": "三食物",
     "id": 11,
     "text": "這箱柑仔予恁去分。",
-    "pronunciation": "Tsit siunn kam-á hōo lín khì pun.",
+    "pronunciation": "tsit‾ siunn- kam_ [a]\\ hoo_ lin‾ khi‾ [pun]‾.",
     "translation": "這箱橘子給你們分了吃。",
     "audio": "0301_03_11_17.mp3"
   },
@@ -968,7 +968,7 @@
     "chapter": "三食物",
     "id": 12,
     "text": "這尾魚仔煎了有赤。",
-    "pronunciation": "Tsit bué hî-á tsian liáu ū tshiah.",
+    "pronunciation": "tsit‾ bue‾ hi_ [a]\\ tsian- [liau]\\ u_ [tshiah]_.",
     "translation": "這條魚煎得微焦。",
     "audio": "0301_03_12_17.mp3"
   },
@@ -977,7 +977,7 @@
     "chapter": "三食物",
     "id": 13,
     "text": "囡仔人毋通傷揀食。",
-    "pronunciation": "Gín-á-lâng m̄-thang siunn kíng-tsia̍h.",
+    "pronunciation": "gin‾ a‾ [lang]/ m_ thang- siunn- king‾ [tsiah]‾.",
     "translation": "小孩子不可以太挑食。",
     "audio": "0301_03_13_17.mp3"
   },
@@ -986,7 +986,7 @@
     "chapter": "三食物",
     "id": 14,
     "text": "毋通予豆油滴落來。",
-    "pronunciation": "M̄-thang hōo tāu-iû tih--lo̍h-lâi.",
+    "pronunciation": "m_ thang- hoo_ tau_ [iu]/ [tih]_ lo_ lai_.",
     "translation": "不要讓醬油滴下來。",
     "audio": "0301_03_14_17.mp3",
     "pronunciation_original": "M̄-thang hōo tāu-iû tih--lo̍h-lâi."
@@ -996,7 +996,7 @@
     "chapter": "三食物",
     "id": 15,
     "text": "你敢有鼻著臭火焦味？",
-    "pronunciation": "Lí kám-ū phīnn-tio̍h tshàu-hué-ta bī?",
+    "pronunciation": "li‾ kam‾ u_ phinn_ tio_ tshau\\ hue‾ ta- [bi]-?",
     "translation": "你聞到燒焦味了嗎？",
     "audio": "0301_03_15_18.mp3",
     "pronunciation_original": "Lí kám-ū phīnn-tio̍h tshàu-hué-ta bī?"
@@ -1006,7 +1006,7 @@
     "chapter": "三食物",
     "id": 16,
     "text": "這个湯頭的滋味袂䆀。",
-    "pronunciation": "Tsit ê thng-thâu ê tsu-bī bē-bái.",
+    "pronunciation": "tsit‾ e- thng- [thau]/ e- tsu- [bi]- be_ [bai]\\.",
     "translation": "這個湯頭的味道不錯。",
     "audio": "0301_03_16_18.mp3",
     "pronunciation_original": "Tsit ê thng-thâu ê tsu-bī bē-bái."
@@ -1016,7 +1016,7 @@
     "chapter": "三食物",
     "id": 17,
     "text": "伊共餅貯入去盒仔底。",
-    "pronunciation": "I kā piánn té ji̍p-khì a̍p-á-té.",
+    "pronunciation": "i- ka_ [piann]\\ te‾ jip_ khi‾ ap_ a‾ [te]\\.",
     "translation": "他把餅乾裝進去盒子裡頭。",
     "audio": "0301_03_17_18.mp3",
     "pronunciation_original": "I kā piánn té ji̍p-khì a̍p-á-té."
@@ -1026,7 +1026,7 @@
     "chapter": "三食物",
     "id": 18,
     "text": "新竹出產的貢丸真有名。",
-    "pronunciation": "Sin-tik tshut-sán ê kòng-uân tsin ū-miâ.",
+    "pronunciation": "sin- [tik]_ tshut‾ [san]\\ e- kong\\ [uan]/ tsin- u_ [mia]/.",
     "translation": "新竹生產的貢丸很有名。",
     "audio": "0301_03_18_18.mp3",
     "pronunciation_original": "Sin-tik tshut-sán ê kòng-uân tsin ū-miâ."
@@ -1036,7 +1036,7 @@
     "chapter": "三食物",
     "id": 19,
     "text": "你欲啉咖啡抑是欲啉茶？",
-    "pronunciation": "Lí beh lim ka-pi ia̍h-sī beh lim-tê?",
+    "pronunciation": "li‾ beh‾ lim- ka- [pi]‾ ia_ si_ beh‾ lim- [te]/?",
     "translation": "你要喝咖啡還是要喝茶？",
     "audio": "0301_03_19_18.mp3",
     "pronunciation_original": "Lí beh lim ka-pi ia̍h-sī beh lim-tê?"
@@ -1046,7 +1046,7 @@
     "chapter": "三食物",
     "id": 20,
     "text": "西瓜著愛著時才會好食。",
-    "pronunciation": "Si-kue tio̍h-ài tio̍h-sî tsiah ē hó-tsia̍h.",
+    "pronunciation": "si- [kue]‾ tio_ ai\\ tio_ [si]/ tsiah‾ e_ ho‾ [tsiah]‾.",
     "translation": "西瓜要當季出產的才好吃。",
     "audio": "0301_03_20_18.mp3",
     "pronunciation_original": "Si-kue tio̍h-ài tio̍h-sî tsiah ē hó-tsia̍h."
@@ -1056,7 +1056,7 @@
     "chapter": "三食物",
     "id": 21,
     "text": "我的嚨喉㧎著一支魚刺。",
-    "pronunciation": "Guá ê nâ-âu khê-tio̍h tsi̍t-ki hî-tshì.",
+    "pronunciation": "gua‾ e- na- [au]/ khe- tio_ tsit_ ki- hi- [tshi]_.",
     "translation": "我的喉嚨卡著一根魚刺。",
     "audio": "0301_03_21_18.mp3",
     "pronunciation_original": "Guá ê nâ-âu khê-tio̍h tsi̍t-ki hî-tshì."
@@ -1066,7 +1066,7 @@
     "chapter": "三食物",
     "id": 22,
     "text": "糖仔一人一粒，毋通相爭。",
-    "pronunciation": "Thn̂g-á tsi̍t lâng tsi̍t lia̍p, m̄-thang sio-tsenn.",
+    "pronunciation": "thng_ [a]\\ tsit_ [lang]/ tsit_ [liap]‾, m_ thang- sio- [tsenn]‾.",
     "translation": "糖果一人一顆，不要爭。",
     "audio": "0301_03_22_19.mp3",
     "pronunciation_original": "Thn̂g-á tsi̍t lâng tsi̍t lia̍p, m̄-thang sio-tsenn."
@@ -1076,7 +1076,7 @@
     "chapter": "三食物",
     "id": 23,
     "text": "叫恁老爸趕緊轉來食暗啦。",
-    "pronunciation": "Kiò lín lāu-pē kuánn-kín tńg-lâi tsia̍h-àm--lah.",
+    "pronunciation": "kio\\ lin‾ lau_ [pe]- kuann‾ kin‾ tng‾ lai- tsia_ [am]_ lah_.",
     "translation": "叫你爸爸趕快回來吃晚飯啦。",
     "audio": "0301_03_23_19.mp3",
     "pronunciation_original": "Kiò lín lāu-pē kuánn-kín tńg-lâi tsia̍h-àm--lah."

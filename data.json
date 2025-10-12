@@ -1125,7 +1125,7 @@
     "page": 19,
     "chapter": "三食物",
     "id": 28,
-    "text": "這鼎肉我滷規下晡，芳絳絳。",
+    "text": "這鼎肉我滷規下晡。",
     "pronunciation": "tsit‾ tiann‾ [bah]_ gua‾ loo‾ kui- e_ [poo]‾.",
     "translation": "這鍋肉我滷了整個下午。",
     "audio": "0301_03_28_19.mp3",
@@ -1164,7 +1164,7 @@
     "chapter": "四動作",
     "id": 3,
     "text": "莫閣振動矣！",
-    "pronunciation": "Mài koh tín-tāng--ah!",
+    "pronunciation": "mai\\ koh‾ tin‾ [tang]- ah_!",
     "translation": "不要再動了！",
     "audio": "0301_04_03_21.mp3"
   },
@@ -1173,7 +1173,7 @@
     "chapter": "四動作",
     "id": 4,
     "text": "愛睏就去睏。",
-    "pronunciation": "Ài-khùn tō khì khùn.",
+    "pronunciation": "ai\\ [khun]_ to_ khi‾ [khun]_.",
     "translation": "想睡就去睡。",
     "audio": "0301_04_04_21.mp3"
   },
@@ -1182,7 +1182,7 @@
     "chapter": "四動作",
     "id": 5,
     "text": "你選佗一个？",
-    "pronunciation": "Lí suán tó tsi̍t ê?",
+    "pronunciation": "li‾ suan‾ to‾ tsit_ [e]/?",
     "translation": "你選哪一個？",
     "audio": "0301_04_05_21.mp3"
   },
@@ -1191,7 +1191,7 @@
     "chapter": "四動作",
     "id": 6,
     "text": "反過來洗這面。",
-    "pronunciation": "Píng--kuè-lâi sé tsit bīn.",
+    "pronunciation": "[ping]\\ kue_ lai_ se‾ tsit‾ [bin]-.",
     "translation": "翻過來洗這一邊。",
     "audio": "0301_04_06_21.mp3"
   },
@@ -1200,7 +1200,7 @@
     "chapter": "四動作",
     "id": 7,
     "text": "伊才走無偌久。",
-    "pronunciation": "I tsiah tsáu bô-guā-kú.",
+    "pronunciation": "i- tsiah‾ tsau‾ bo- gua_ [ku]\\.",
     "translation": "他剛離開不久。",
     "audio": "0301_04_07_21.mp3"
   },
@@ -1209,7 +1209,7 @@
     "chapter": "四動作",
     "id": 8,
     "text": "恁攏共我恬恬！",
-    "pronunciation": "Lín lóng kā guá tiām-tiām!",
+    "pronunciation": "lin‾ long‾ ka_ gua‾ tiam_ [tiam]-!",
     "translation": "你們都給我安靜點！",
     "audio": "0301_04_08_22.mp3"
   },
@@ -1218,7 +1218,7 @@
     "chapter": "四動作",
     "id": 9,
     "text": "你去共門開開。",
-    "pronunciation": "Lí khì kā mn̂g khui--khui.",
+    "pronunciation": "li‾ khi‾ ka_ [mng]/ [khui]‾ khui_.",
     "translation": "你去將門打開。",
     "audio": "0301_04_09_22.mp3"
   },
@@ -1227,7 +1227,7 @@
     "chapter": "四動作",
     "id": 10,
     "text": "伊嘛欲綴你去。",
-    "pronunciation": "I mā beh tuè lí khì.",
+    "pronunciation": "i- ma_ beh‾ tue\\ li‾ [khi]_.",
     "translation": "他也想跟你去。",
     "audio": "0301_04_10_22.mp3"
   },
@@ -1236,7 +1236,7 @@
     "chapter": "四動作",
     "id": 11,
     "text": "你去摺衫好無？",
-    "pronunciation": "Lí khì tsih-sann hó--bô?",
+    "pronunciation": "li‾ khi‾ tsi\\ [sann]‾ [ho]\\ bo_?",
     "translation": "你去摺衣服好嗎？",
     "audio": "0301_04_11_22.mp3"
   },
@@ -1245,7 +1245,7 @@
     "chapter": "四動作",
     "id": 12,
     "text": "燃燒水洗身軀。",
-    "pronunciation": "Hiânn sio-tsuí sé-sin-khu.",
+    "pronunciation": "hiann- sio- [tsui]\\ se‾ sin- [khu]‾.",
     "translation": "燒開水洗澡。",
     "audio": "0301_04_12_22.mp3"
   },
@@ -1254,7 +1254,7 @@
     "chapter": "四動作",
     "id": 13,
     "text": "我欲準備落山矣。",
-    "pronunciation": "Guá beh tsún-pī lo̍h-suann--ah.",
+    "pronunciation": "gua‾ beh‾ tsun‾ pi_ lo_ [suann]‾ ah_.",
     "translation": "我要準備下山了。",
     "audio": "0301_04_13_22.mp3"
   },
@@ -1263,7 +1263,7 @@
     "chapter": "四動作",
     "id": 14,
     "text": "你毋通傷晏轉來。",
-    "pronunciation": "Lí m̄-thang siunn uànn tńg--lâi.",
+    "pronunciation": "li‾ m_ thang- siunn- uann\\ [tng]\\ lai_.",
     "translation": "你別太晚回來。",
     "audio": "0301_04_14_22.mp3",
     "pronunciation_original": "Lí m̄-thang siunn uànn tńg--lâi."
@@ -1273,7 +1273,7 @@
     "chapter": "四動作",
     "id": 15,
     "text": "昨暗伊無轉來睏。",
-    "pronunciation": "Tsa-àm i bô tńg-lâi khùn.",
+    "pronunciation": "tsa- [am]_ i- bo- tng‾ lai- [khun]_.",
     "translation": "昨晚他沒有回來睡。",
     "audio": "0301_04_15_23.mp3",
     "pronunciation_original": "Tsa-àm i bô tńg-lâi khùn."
